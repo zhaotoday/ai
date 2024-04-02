@@ -1,5 +1,9 @@
 #### 文档
+- [OpenAI 文档介绍](https://openai.xiniushu.com/)
+- [OpenAI（ChatGPT）](https://openai.apifox.cn/)
 - [提示工程指南](https://www.promptingguide.ai/zh)
+- [Tokenizer](https://platform.openai.com/tokenizer)
+- [OpenAI 接口文档](https://platform.openai.com/docs/api-reference)
 
 #### Awesome
 - [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
@@ -31,6 +35,7 @@
 - [AI Short](https://github.com/rockbenben/ChatGPT-Shortcut/blob/main/README-zh.md)
 - [ChatGPT API](https://github.com/transitive-bullshit/chatgpt-api)
 - [AI 法律助手](https://github.com/lvwzhen/law-cn-ai)
+- [Libraries](https://platform.openai.com/docs/libraries/libraries)
 
 #### 提示词
 - [Prompts 精选](https://github.com/yzfly/wonderful-prompts)
@@ -45,13 +50,15 @@
 - [德里克文：GPT入门经验及提示词速查整理](https://juejin.cn/post/7270971101014671401)
 - [ChatGPT 中文指南](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
 - [解锁智慧对话：提升效率的ChatGPT提示语指南](https://juejin.cn/post/7299743820434374683)
-
+- [OpenAI中文入门：简介](https://www.bilibili.com/read/cv21507694/)
 
 #### 工具
 - [WildCard](https://bewildcard.com/)
 
 #### 视频
 - [如何使用临时英国手机号码，接收短信验证码？](https://www.douyin.com/video/7285967756946722105)
+- [使用 OpenAI 实现基于 NodeJS 的对话机器人](https://www.bilibili.com/video/BV1ca4y1N7Vw/)
+- [OpenAI 入门](https://www.bilibili.com/video/BV1N24y1G794/)
 
 #### AI 创业
 - [AiMoneyHunter](https://github.com/bleedline/aimoneyhunter)
