@@ -5,18 +5,6 @@
 - [Tokenizer](https://platform.openai.com/tokenizer)
 - [OpenAI 接口文档](https://platform.openai.com/docs/api-reference)
 
-#### Awesome
-- [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
-- [awesome-chatgpt](https://github.com/dalinvip/Awesome-ChatGPT)
-- [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)
-- [awesome-chatgpt](https://github.com/eon01/awesome-chatgpt)
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
-- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
-- [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)
-- [Awesome-GPTs-Prompts](https://github.com/ai-boost/awesome-prompts)
-- [ChatGPT 引导语大全](https://github.com/jevantang/chatgpt-prompts)
-- [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
-
 #### UI 界面
 - [chatgpt-web](https://github.com/Niek/chatgpt-web)
 - [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)
@@ -64,3 +52,18 @@
 
 #### AI 创业
 - [AiMoneyHunter](https://github.com/bleedline/aimoneyhunter)
+
+#### 网址导航
+- [一起搞 AI](https://17yongai.com/)
+
+#### Awesome
+- [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
+- [awesome-chatgpt](https://github.com/dalinvip/Awesome-ChatGPT)
+- [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)
+- [awesome-chatgpt](https://github.com/eon01/awesome-chatgpt)
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
+- [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)
+- [Awesome-GPTs-Prompts](https://github.com/ai-boost/awesome-prompts)
+- [ChatGPT 引导语大全](https://github.com/jevantang/chatgpt-prompts)
+- [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
