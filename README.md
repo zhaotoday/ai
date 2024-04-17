@@ -56,8 +56,9 @@
 #### AI 创业
 - [AiMoneyHunter](https://github.com/bleedline/aimoneyhunter)
 
-#### 网址导航
-- [一起搞 AI](https://17yongai.com/)
+#### 网站
+- [一起用 AI](https://17yongai.com/)
+- [COOL](https://cool-js.com/)
 
 #### Awesome
 - [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
