@@ -43,7 +43,6 @@
 - [解锁智慧对话：提升效率的ChatGPT提示语指南](https://juejin.cn/post/7299743820434374683)
 - [OpenAI中文入门：简介](https://www.bilibili.com/read/cv21507694/)
 - [腾讯云函数1分钟搭建 OpenAI 国内代理](https://github.com/riba2534/openai-scf-goproxy)
-- [Ollama结合Chroma、Cool构建智能微信机器人客服](https://www.bilibili.com/video/BV1vr421x7zj/)
 
 #### 工具
 - [WildCard](https://bewildcard.com/)
@@ -52,6 +51,7 @@
 - [如何使用临时英国手机号码，接收短信验证码？](https://www.douyin.com/video/7285967756946722105)
 - [使用 OpenAI 实现基于 NodeJS 的对话机器人](https://www.bilibili.com/video/BV1ca4y1N7Vw/)
 - [OpenAI 入门](https://www.bilibili.com/video/BV1N24y1G794/)
+- [Ollama结合Chroma、Cool构建智能微信机器人客服](https://www.bilibili.com/video/BV1vr421x7zj/)
 
 #### AI 创业
 - [AiMoneyHunter](https://github.com/bleedline/aimoneyhunter)
