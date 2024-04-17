@@ -24,6 +24,7 @@
 - [ChatGPT API](https://github.com/transitive-bullshit/chatgpt-api)
 - [AI 法律助手](https://github.com/lvwzhen/law-cn-ai)
 - [Libraries](https://platform.openai.com/docs/libraries/libraries)
+- [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
 - [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub)
 
 #### 提示词
