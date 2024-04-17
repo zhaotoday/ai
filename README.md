@@ -43,6 +43,7 @@
 - [解锁智慧对话：提升效率的ChatGPT提示语指南](https://juejin.cn/post/7299743820434374683)
 - [OpenAI中文入门：简介](https://www.bilibili.com/read/cv21507694/)
 - [腾讯云函数1分钟搭建 OpenAI 国内代理](https://github.com/riba2534/openai-scf-goproxy)
+- [Ollama结合Chroma、Cool构建智能微信机器人客服](https://www.bilibili.com/video/BV1vr421x7zj/)
 
 #### 工具
 - [WildCard](https://bewildcard.com/)
