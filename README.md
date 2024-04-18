@@ -61,6 +61,7 @@
 - [openai-api-proxy](https://github.com/easychen/openai-api-proxy/blob/master/README.CN.md)
 - [OpenAI API Proxy](https://www.openai-proxy.com/)
 - [OpenAI API 代理](https://www.cnblogs.com/JourneyOfFlower/p/17442972.html)
+- [解决无法访问OpenAI API的三种方式](https://blog.csdn.net/u014390502/article/details/135936872)
 
 #### AI 创业
 - [AiMoneyHunter](https://github.com/bleedline/aimoneyhunter)
