@@ -65,6 +65,7 @@
 #### 网站
 - [一起用 AI](https://17yongai.com/)
 - [COOL](https://cool-js.com/)
+- [API2D](https://api2d.com/)
 
 #### Awesome
 - [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
