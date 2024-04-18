@@ -53,6 +53,9 @@
 - [OpenAI 入门](https://www.bilibili.com/video/BV1N24y1G794/)
 - [Ollama结合Chroma、Cool构建智能微信机器人客服](https://www.bilibili.com/video/BV1vr421x7zj/)
 
+#### 设置代理
+- [此Proxy可以部署到腾讯云函数](https://github.com/easychen/openai-api-proxy/blob/master/FUNC.md)
+
 #### AI 创业
 - [AiMoneyHunter](https://github.com/bleedline/aimoneyhunter)
 
