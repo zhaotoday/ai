@@ -55,6 +55,7 @@
 
 #### 设置代理
 - [此Proxy可以部署到腾讯云函数](https://github.com/easychen/openai-api-proxy/blob/master/FUNC.md)
+- [openai-api-proxy](https://github.com/easychen/openai-api-proxy/blob/master/README.CN.md)
 
 #### AI 创业
 - [AiMoneyHunter](https://github.com/bleedline/aimoneyhunter)
