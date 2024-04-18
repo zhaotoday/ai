@@ -56,6 +56,7 @@
 - [Ollama结合Chroma、Cool构建智能微信机器人客服](https://www.bilibili.com/video/BV1vr421x7zj/)
 
 #### 设置代理
+- [Openai、Gemini、claude和pika宝塔反向代理服务器配置教程](https://www.ttbobo.com/4050.html)
 - [此Proxy可以部署到腾讯云函数](https://github.com/easychen/openai-api-proxy/blob/master/FUNC.md)
 - [openai-api-proxy](https://github.com/easychen/openai-api-proxy/blob/master/README.CN.md)
 
