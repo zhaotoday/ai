@@ -60,6 +60,7 @@
 - [此Proxy可以部署到腾讯云函数](https://github.com/easychen/openai-api-proxy/blob/master/FUNC.md)
 - [openai-api-proxy](https://github.com/easychen/openai-api-proxy/blob/master/README.CN.md)
 - [OpenAI API Proxy](https://www.openai-proxy.com/)
+- [OpenAI API 代理](https://www.cnblogs.com/JourneyOfFlower/p/17442972.html)
 
 #### AI 创业
 - [AiMoneyHunter](https://github.com/bleedline/aimoneyhunter)
