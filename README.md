@@ -26,6 +26,7 @@
 - [Libraries](https://platform.openai.com/docs/libraries/libraries)
 - [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
 - [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub)
+- [gpt4free](https://github.com/xtekky/gpt4free)
 
 #### 提示词
 - [Prompts 精选](https://github.com/yzfly/wonderful-prompts)
