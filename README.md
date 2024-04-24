@@ -45,6 +45,7 @@
 - [腾讯云函数1分钟搭建 OpenAI 国内代理](https://github.com/riba2534/openai-scf-goproxy)
 - [使用 Azure OpenAI 打造自己的 ChatGPT](https://www.cnblogs.com/stulzq/p/17271937.html)
 - [如何快速开发一个OpenAI/GPT应用](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer)
+- [告别轮询，SSE 流式传输可太香了！](https://juejin.cn/post/7355666189475954725)
 
 #### 工具
 - [WildCard](https://bewildcard.com/)
