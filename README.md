@@ -14,6 +14,7 @@
 - [chatgpt-next](https://github.com/xcatliu/chatgpt-next)
 - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 - [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
+- [Lobe Chat](https://github.com/lobehub/lobe-chat)
 
 #### 开源
 - [One API](https://github.com/songquanpeng/one-api)
