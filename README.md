@@ -84,6 +84,7 @@
 - [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
 - [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
 - [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)
+- [Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs/blob/main/README_zh.md)
 - [Awesome-GPTs-Prompts](https://github.com/ai-boost/awesome-prompts)
 - [ChatGPT 引导语大全](https://github.com/jevantang/chatgpt-prompts)
 - [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
