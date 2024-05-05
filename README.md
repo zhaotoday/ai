@@ -76,6 +76,7 @@
 - [API2D](https://api2d.com/)
 
 #### Awesome
+- [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools/blob/main/README-CN.md)
 - [Awesome AI](https://github.com/cssmagic/Awesome-AI)
 - [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
 - [awesome-chatgpt](https://github.com/dalinvip/Awesome-ChatGPT)
