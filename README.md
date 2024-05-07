@@ -50,6 +50,9 @@
 - [告别轮询，SSE 流式传输可太香了！](https://juejin.cn/post/7355666189475954725)
 - [56.5Kstar的开源项目gpt4free到底是什么来头？](https://juejin.cn/post/7356123940936581170)
 
+#### 文章
+- [JavaScript领域的五大AI工程利器](https://juejin.cn/post/7327121518549778442)
+
 #### 工具
 - [WildCard](https://bewildcard.com/)
 
