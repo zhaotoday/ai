@@ -74,6 +74,7 @@
 - [AiMoneyHunter](https://github.com/bleedline/aimoneyhunter)
 
 #### 网站
+- [豆包](https://www.doubao.com/)
 - [一起用 AI](https://17yongai.com/)
 - [COOL](https://cool-js.com/)
 - [API2D](https://api2d.com/)
