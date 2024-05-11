@@ -15,6 +15,7 @@
 - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 - [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
 - [Lobe Chat](https://github.com/lobehub/lobe-chat)
+- [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 #### 开源
 - [One API](https://github.com/songquanpeng/one-api)
