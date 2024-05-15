@@ -52,6 +52,7 @@
 - [56.5Kstar的开源项目gpt4free到底是什么来头？](https://juejin.cn/post/7356123940936581170)
 
 #### 文章
+- [外行程序员的GPT入门手册](https://juejin.cn/post/7256255856151871545)
 - [JavaScript领域的五大AI工程利器](https://juejin.cn/post/7327121518549778442)
 - [50个2024年最受欢迎的AI工具大汇总](https://juejin.cn/post/7352100456334655498)
 
