@@ -59,6 +59,9 @@
 #### 工具
 - [WildCard](https://bewildcard.com/)
 
+#### 库
+- [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer)
+
 #### 视频
 - [如何使用临时英国手机号码，接收短信验证码？](https://www.douyin.com/video/7285967756946722105)
 - [使用 OpenAI 实现基于 NodeJS 的对话机器人](https://www.bilibili.com/video/BV1ca4y1N7Vw/)
