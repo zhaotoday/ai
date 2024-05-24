@@ -86,6 +86,7 @@
 - [一起用 AI](https://17yongai.com/)
 - [COOL](https://cool-js.com/)
 - [API2D](https://api2d.com/)
+- [AIGC 导航](https://www.aigc.cn/)
 
 #### Awesome
 - [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools/blob/main/README-CN.md)
