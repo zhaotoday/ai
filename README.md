@@ -6,6 +6,9 @@
 - [OpenAI 接口文档](https://platform.openai.com/docs/api-reference)
 - [Gemini API 使用入门](https://ai.google.dev/gemini-api/docs/get-started/tutorial?lang=node&hl=zh-cn)
 
+#### 官网
+- [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
+
 #### UI 界面
 - [chatgpt-web](https://github.com/Niek/chatgpt-web)
 - [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)
