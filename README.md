@@ -64,8 +64,9 @@
 #### 工具
 - [WildCard](https://bewildcard.com/)
 
-#### 库
+#### 相关库
 - [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer)
+- [@microsoft/fetch-event-source](https://github.com/Azure/fetch-event-source)
 
 #### 视频
 - [如何使用临时英国手机号码，接收短信验证码？](https://www.douyin.com/video/7285967756946722105)
