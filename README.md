@@ -10,6 +10,9 @@
 #### 官网
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
+#### SDK
+- [火山引擎 OpenAPI node sdk](https://github.com/volcengine/volc-sdk-nodejs/blob/main/README_zh.md)
+
 #### UI 界面
 - [chatgpt-web](https://github.com/Niek/chatgpt-web)
 - [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)
