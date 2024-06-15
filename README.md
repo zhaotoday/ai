@@ -113,3 +113,6 @@
 - [Awesome-GPTs-Prompts](https://github.com/ai-boost/awesome-prompts)
 - [ChatGPT 引导语大全](https://github.com/jevantang/chatgpt-prompts)
 - [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
+
+#### 其他
+- https://github.com/volcengine/volc-sdk-nodejs/issues/3
