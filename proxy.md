@@ -2,6 +2,7 @@
 - 代理名称：gemini-proxy
 - 目标URL：https://generativelanguage.googleapis.com
 - 发送域名：generativelanguage.googleapis.com
+- 在生成的配置文件添加：proxy_ssl_server_name on;
 
 ```
 #PROXY-START/
