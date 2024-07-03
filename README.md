@@ -48,6 +48,7 @@
 - [LangGPT 结构化提示词](https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe)
 
 #### 教程
+- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 - [2024版: 用 Node.js 调用 ChatGPT API 实现 Stream 流式聊天效果](https://zhuanlan.zhihu.com/p/689155300)
 - [WildCard开通ChatGPT4](https://blog.csdn.net/u014390502/article/details/135857497)
 - [chatgpt注册、使用、升级说明书，小白一分钟掌握的技能](https://www.yuque.com/lingganjiao/obgqg7/eofegz1fy7lmlkes)
