@@ -40,6 +40,7 @@
 - [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub)
 - [gpt4free](https://github.com/xtekky/gpt4free)
 - [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)
+- [web-llm](https://github.com/mlc-ai/web-llm)
 
 #### 提示词
 - [Prompts 精选](https://github.com/yzfly/wonderful-prompts)
