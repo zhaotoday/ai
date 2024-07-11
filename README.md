@@ -27,6 +27,7 @@
 - [Lobe Chat](https://github.com/lobehub/lobe-chat)
 - [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [typingmind](https://github.com/TypingMind/typingmind)
+- [langui](https://github.com/LangbaseInc/langui)
 
 #### 开源
 - [One API](https://github.com/songquanpeng/one-api)
