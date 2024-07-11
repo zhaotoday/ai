@@ -28,6 +28,7 @@
 - [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [typingmind](https://github.com/TypingMind/typingmind)
 - [langui](https://github.com/LangbaseInc/langui)
+- [openui](https://github.com/wandb/openui)
 
 #### 开源
 - [One API](https://github.com/songquanpeng/one-api)
