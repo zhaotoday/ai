@@ -26,6 +26,7 @@
 - [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
 - [Lobe Chat](https://github.com/lobehub/lobe-chat)
 - [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [typingmind](https://github.com/TypingMind/typingmind)
 
 #### 开源
 - [One API](https://github.com/songquanpeng/one-api)
