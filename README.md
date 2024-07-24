@@ -12,6 +12,9 @@
 #### 官网
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
+#### 教程
+- [Understanding DeepLearning](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN)
+
 #### SDK
 - [火山引擎 OpenAPI node sdk](https://github.com/volcengine/volc-sdk-nodejs/blob/main/README_zh.md)
 
