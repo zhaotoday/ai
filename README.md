@@ -70,6 +70,7 @@
 - [如何快速开发一个OpenAI/GPT应用](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer)
 - [告别轮询，SSE 流式传输可太香了！](https://juejin.cn/post/7355666189475954725)
 - [56.5Kstar的开源项目gpt4free到底是什么来头？](https://juejin.cn/post/7356123940936581170)
+- [OpenAI API充值报错Your card was declined怎么办](https://chatgptboke.com/openai-api-your-card-was-declined.html)
 
 #### 文章
 - [外行程序员的GPT入门手册](https://juejin.cn/post/7256255856151871545)
