@@ -78,6 +78,8 @@
 - [50个2024年最受欢迎的AI工具大汇总](https://juejin.cn/post/7352100456334655498)
 - [大模型中的token](https://wanglinteng.github.io/post/llm_token/)
 - [@microsoft/fetch-event-source EventSource相关示例文档](https://blog.csdn.net/qq_39342142/article/details/135837839)
+- [前端与Brain.js融合的未来](https://juejin.cn/post/7441116826623393829)
+- [实时视频换脸，不要轻易相信你看到的](https://juejin.cn/post/7430693224174256155)
 
 #### 工具
 - [WildCard](https://bewildcard.com/)
