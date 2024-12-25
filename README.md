@@ -8,6 +8,7 @@
 - [火山方舟大模型服务平台](https://www.volcengine.com/docs/82379/)
 - [Doubao API 调用指南](https://www.volcengine.com/docs/82379/1263512)
 - [火山引擎 - 机器翻译](https://www.volcengine.com/docs/4640/65065)
+- [Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 
 #### 官网
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
