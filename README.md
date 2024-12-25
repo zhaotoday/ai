@@ -73,6 +73,7 @@
 - [56.5Kstar的开源项目gpt4free到底是什么来头？](https://juejin.cn/post/7356123940936581170)
 - [OpenAI API充值报错Your card was declined怎么办](https://chatgptboke.com/openai-api-your-card-was-declined.html)
 - [hugging-llm](https://github.com/datawhalechina/hugging-llm)
+- [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
 - [外行程序员的GPT入门手册](https://juejin.cn/post/7256255856151871545)
