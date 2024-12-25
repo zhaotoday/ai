@@ -86,6 +86,7 @@
 - [github copilot / cursor / windsurf 你该使用哪一个？AI 编辑器横评](https://juejin.cn/post/7448440471012212746)
 - [我所知道的 chatGPT 提示工程](https://juejin.cn/post/7245519751224934461)
 - [日常使用的AI资源汇总](https://juejin.cn/post/7316721119632539700)
+- [最新 AI 编程工具全面对比：v0、Bolt.new、Cursor、Windsurf](https://juejin.cn/post/7446099997349806134)
 
 #### 工具
 - [WildCard](https://bewildcard.com/)
