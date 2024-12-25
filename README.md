@@ -80,6 +80,7 @@
 - [@microsoft/fetch-event-source EventSource相关示例文档](https://blog.csdn.net/qq_39342142/article/details/135837839)
 - [前端与Brain.js融合的未来](https://juejin.cn/post/7441116826623393829)
 - [实时视频换脸，不要轻易相信你看到的](https://juejin.cn/post/7430693224174256155)
+- [github copilot / cursor / windsurf 你该使用哪一个？AI 编辑器横评](https://juejin.cn/post/7448440471012212746)
 
 #### 工具
 - [WildCard](https://bewildcard.com/)
