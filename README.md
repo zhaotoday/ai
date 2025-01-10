@@ -89,6 +89,7 @@
 - [日常使用的AI资源汇总](https://juejin.cn/post/7316721119632539700)
 - [最新 AI 编程工具全面对比：v0、Bolt.new、Cursor、Windsurf](https://juejin.cn/post/7446099997349806134)
 - [2024年终AI工具汇总：9大AI领域，70+精选AI工具，全都在这了！](https://juejin.cn/post/7454501732203610131)
+- [2024，我追过的 AI 风口](https://juejin.cn/post/7456646086135578633)
 
 #### 工具
 - [WildCard](https://bewildcard.com/)
