@@ -125,6 +125,7 @@
 - [AIGC 导航](https://www.aigc.cn/)
 
 #### Awesome
+- [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)
 - [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools/blob/main/README-CN.md)
 - [Awesome AI](https://github.com/cssmagic/Awesome-AI)
 - [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
