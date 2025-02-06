@@ -37,6 +37,7 @@
 
 #### 开源
 - [chatbox](https://github.com/Bin-Huang/chatbox)
+- [khoj](https://github.com/khoj-ai/khoj)
 - [One API](https://github.com/songquanpeng/one-api)
 - [Code Review GPT](https://github.com/mattzcarey/code-review-gpt)
 - [chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy)
