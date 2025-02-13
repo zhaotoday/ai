@@ -124,6 +124,7 @@
 - [COOL](https://cool-js.com/)
 - [API2D](https://api2d.com/)
 - [AIGC 导航](https://www.aigc.cn/)
+- [AI工具集](https://ai-bot.cn/)
 
 #### Awesome
 - [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)
