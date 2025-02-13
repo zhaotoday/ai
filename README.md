@@ -93,6 +93,7 @@
 - [最新 AI 编程工具全面对比：v0、Bolt.new、Cursor、Windsurf](https://juejin.cn/post/7446099997349806134)
 - [2024年终AI工具汇总：9大AI领域，70+精选AI工具，全都在这了！](https://juejin.cn/post/7454501732203610131)
 - [2024，我追过的 AI 风口](https://juejin.cn/post/7456646086135578633)
+- [Copycoder：这个工具和 Cursor、Bolt、V0 配合太棒了！提供更好的前端开发提示词（AI导航网站生成）](https://cloud.tencent.com/developer/article/2473910)
 
 #### 工具
 - [WildCard](https://bewildcard.com/)
