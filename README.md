@@ -53,6 +53,7 @@
 - [web-llm](https://github.com/mlc-ai/web-llm)
 - [make-real](https://github.com/tldraw/make-real)
 - [LLM Web API](https://github.com/adryfish/llm-web-api)
+- [xsai](https://github.com/moeru-ai/xsai)
 
 #### 提示词
 - [Prompts 精选](https://github.com/yzfly/wonderful-prompts)
