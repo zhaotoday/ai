@@ -54,6 +54,7 @@
 - [make-real](https://github.com/tldraw/make-real)
 - [LLM Web API](https://github.com/adryfish/llm-web-api)
 - [xsai](https://github.com/moeru-ai/xsai)
+- [genaiscript](https://microsoft.github.io/genaiscript/)
 
 #### 提示词
 - [Prompts 精选](https://github.com/yzfly/wonderful-prompts)
