@@ -97,6 +97,7 @@
 - [2024年终AI工具汇总：9大AI领域，70+精选AI工具，全都在这了！](https://juejin.cn/post/7454501732203610131)
 - [2024，我追过的 AI 风口](https://juejin.cn/post/7456646086135578633)
 - [Copycoder：这个工具和 Cursor、Bolt、V0 配合太棒了！提供更好的前端开发提示词（AI导航网站生成）](https://cloud.tencent.com/developer/article/2473910)
+- [微软悄悄发布了全新纯视觉AI工具！一张屏幕截图，即可精准操作你的电脑！](https://juejin.cn/post/7472377152563085363)
 
 #### 工具
 - [WildCard](https://bewildcard.com/)
