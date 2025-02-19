@@ -83,6 +83,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [本地部署DeepSeek后，没有好看的交互界面怎么行！](https://juejin.cn/post/7471899441554587698)
 - [外行程序员的GPT入门手册](https://juejin.cn/post/7256255856151871545)
 - [JavaScript领域的五大AI工程利器](https://juejin.cn/post/7327121518549778442)
 - [50个2024年最受欢迎的AI工具大汇总](https://juejin.cn/post/7352100456334655498)
