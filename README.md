@@ -14,6 +14,9 @@
 #### 官网
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
+#### 平台
+- [硅基流动](https://siliconflow.cn/zh-cn/)
+
 #### 教程
 - [Understanding DeepLearning](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN)
 
