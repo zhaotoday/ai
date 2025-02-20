@@ -37,6 +37,7 @@
 - [typingmind](https://github.com/TypingMind/typingmind)
 - [langui](https://github.com/LangbaseInc/langui)
 - [openui](https://github.com/wandb/openui)
+- [open-webui](https://github.com/open-webui/open-webui)
 
 #### 开源
 - [chatbox](https://github.com/Bin-Huang/chatbox)
