@@ -103,6 +103,7 @@
 - [2024，我追过的 AI 风口](https://juejin.cn/post/7456646086135578633)
 - [Copycoder：这个工具和 Cursor、Bolt、V0 配合太棒了！提供更好的前端开发提示词（AI导航网站生成）](https://cloud.tencent.com/developer/article/2473910)
 - [微软悄悄发布了全新纯视觉AI工具！一张屏幕截图，即可精准操作你的电脑！](https://juejin.cn/post/7472377152563085363)
+- [结合 DeepSeek 的一些 AI 产品组合+碎碎念](https://juejin.cn/post/7471481399532814371)
 
 #### 工具
 - [WildCard](https://bewildcard.com/)
