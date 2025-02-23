@@ -17,6 +17,7 @@
 #### 平台
 - [硅基流动](https://siliconflow.cn/zh-cn/)
 - [302 AI](https://302.ai/)
+- [futurepedia](https://www.futurepedia.io/)
 
 #### 工具
 - [v0](https://v0.dev/)
