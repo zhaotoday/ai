@@ -88,6 +88,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [你需要的不是智能体，而是一个适合 AI 的工作流](https://juejin.cn/post/7397284874632527898)
 - [本地部署DeepSeek后，没有好看的交互界面怎么行！](https://juejin.cn/post/7471899441554587698)
 - [外行程序员的GPT入门手册](https://juejin.cn/post/7256255856151871545)
 - [JavaScript领域的五大AI工程利器](https://juejin.cn/post/7327121518549778442)
