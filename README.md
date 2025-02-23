@@ -18,6 +18,9 @@
 - [硅基流动](https://siliconflow.cn/zh-cn/)
 - [302 AI](https://302.ai/)
 
+#### 工具
+- [v0](https://v0.dev/)
+
 #### 教程
 - [Understanding DeepLearning](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN)
 
