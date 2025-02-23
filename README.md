@@ -67,6 +67,7 @@
 - [genaiscript](https://microsoft.github.io/genaiscript/)
 - [transformers.js](https://github.com/huggingface/transformers.js)
 - [CosyVoice](https://github.com/FunAudioLLM/CosyVoice)
+- [CosyVoice_For_Windows](https://github.com/v3ucn/CosyVoice_For_Windows)
 
 #### 提示词
 - [Prompts 精选](https://github.com/yzfly/wonderful-prompts)
