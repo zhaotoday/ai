@@ -16,6 +16,7 @@
 
 #### 平台
 - [硅基流动](https://siliconflow.cn/zh-cn/)
+- [302 AI](https://302.ai/)
 
 #### 教程
 - [Understanding DeepLearning](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN)
