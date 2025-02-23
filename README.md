@@ -66,6 +66,7 @@
 - [xsai](https://github.com/moeru-ai/xsai)
 - [genaiscript](https://microsoft.github.io/genaiscript/)
 - [transformers.js](https://github.com/huggingface/transformers.js)
+- [CosyVoice](https://github.com/FunAudioLLM/CosyVoice)
 
 #### 提示词
 - [Prompts 精选](https://github.com/yzfly/wonderful-prompts)
