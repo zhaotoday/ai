@@ -20,6 +20,7 @@
 
 #### 工具
 - [v0](https://v0.dev/)
+- [openui](https://openui.fly.dev/)
 
 #### 教程
 - [Understanding DeepLearning](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN)
