@@ -117,6 +117,7 @@
 - [微软悄悄发布了全新纯视觉AI工具！一张屏幕截图，即可精准操作你的电脑！](https://juejin.cn/post/7472377152563085363)
 - [结合 DeepSeek 的一些 AI 产品组合+碎碎念](https://juejin.cn/post/7471481399532814371)
 - [微软发布OmniParser V2：将UI截图转为结构化文本数据，辅助LLM Agent解析和操作](https://juejin.cn/post/7472400354993373199)
+- [Next.js 项目接入 AI 的利器 —— Vercel AI SDK](https://juejin.cn/post/7376622203301969959)
 
 #### 工具
 - [WildCard](https://bewildcard.com/)
