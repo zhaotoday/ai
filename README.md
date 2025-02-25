@@ -71,6 +71,7 @@
 - [CosyVoice_For_Windows](https://github.com/v3ucn/CosyVoice_For_Windows)
 - [小智 AI 聊天机器人](https://github.com/78/xiaozhi-esp32)
 - [vercel/ai](https://github.com/vercel/ai)
+- [mastra](https://github.com/mastra-ai/mastra)
 
 #### 提示词
 - [Prompts 精选](https://github.com/yzfly/wonderful-prompts)
