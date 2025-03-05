@@ -120,6 +120,7 @@
 - [结合 DeepSeek 的一些 AI 产品组合+碎碎念](https://juejin.cn/post/7471481399532814371)
 - [微软发布OmniParser V2：将UI截图转为结构化文本数据，辅助LLM Agent解析和操作](https://juejin.cn/post/7472400354993373199)
 - [Next.js 项目接入 AI 的利器 —— Vercel AI SDK](https://juejin.cn/post/7376622203301969959)
+- [6 个 GitHub 上狂飙的 AI 教程](https://juejin.cn/post/7476352294083887114)
 
 #### 工具
 - [WildCard](https://bewildcard.com/)
