@@ -77,6 +77,7 @@
 - [vercel/ai](https://github.com/vercel/ai)
 - [mastra](https://github.com/mastra-ai/mastra)
 - [chroma.js](https://github.com/gka/chroma.js)
+- [ChatTTS](https://github.com/2noise/ChatTTS)
 
 #### 提示词
 - [Prompts 精选](https://github.com/yzfly/wonderful-prompts)
