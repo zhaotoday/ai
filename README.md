@@ -125,6 +125,7 @@
 - [如何拥有一个无限制、可联网、带本地知识库的私人 DeepSeek？](https://juejin.cn/post/7469390430532403226)
 - [动态智能体与智能体编排](https://juejin.cn/post/7440284476498247690)
 - [你要的AI Agent工具都在这里](https://juejin.cn/post/7385356774445793334)
+- [分享我日常使用 Cursor 的一些小技巧](https://juejin.cn/post/7472016461176832027)
 
 #### 工具
 - [WildCard](https://bewildcard.com/)
