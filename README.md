@@ -124,6 +124,7 @@
 - [6 个 GitHub 上狂飙的 AI 教程](https://juejin.cn/post/7476352294083887114)
 - [如何拥有一个无限制、可联网、带本地知识库的私人 DeepSeek？](https://juejin.cn/post/7469390430532403226)
 - [动态智能体与智能体编排](https://juejin.cn/post/7440284476498247690)
+- [你要的AI Agent工具都在这里](https://juejin.cn/post/7385356774445793334)
 
 #### 工具
 - [WildCard](https://bewildcard.com/)
