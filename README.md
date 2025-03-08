@@ -128,6 +128,7 @@
 - [动态智能体与智能体编排](https://juejin.cn/post/7440284476498247690)
 - [你要的AI Agent工具都在这里](https://juejin.cn/post/7385356774445793334)
 - [分享我日常使用 Cursor 的一些小技巧](https://juejin.cn/post/7472016461176832027)
+- [向量数据库Chroma学习记录](https://juejin.cn/post/7356852538719158281)
 
 #### 工具
 - [WildCard](https://bewildcard.com/)
