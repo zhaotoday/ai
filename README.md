@@ -72,6 +72,7 @@
 - [小智 AI 聊天机器人](https://github.com/78/xiaozhi-esp32)
 - [vercel/ai](https://github.com/vercel/ai)
 - [mastra](https://github.com/mastra-ai/mastra)
+- [chroma.js](https://github.com/gka/chroma.js)
 
 #### 提示词
 - [Prompts 精选](https://github.com/yzfly/wonderful-prompts)
