@@ -21,6 +21,7 @@
 - [魔搭社区](https://www.modelscope.cn/home)
 
 #### 工具
+- [bolt](https://bolt.new/)
 - [v0](https://v0.dev/)
 - [openui](https://openui.fly.dev/)
 - [pinokio](https://pinokio.computer/)
