@@ -24,6 +24,7 @@
 - [v0](https://v0.dev/)
 - [openui](https://openui.fly.dev/)
 - [pinokio](https://pinokio.computer/)
+- [reweb](https://www.reweb.so/)
 
 #### 教程
 - [Understanding DeepLearning](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN)
