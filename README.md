@@ -84,6 +84,7 @@
 - [opensumi](https://github.com/opensumi/core)
 - [ai-assistant-electron](https://github.com/Andaroth/ai-assistant-electron)
 - [AIHub](https://github.com/classfang/AIHub)
+- [cherry-studio](https://github.com/CherryHQ/cherry-studio)
 
 #### 提示词
 - [Prompts 精选](https://github.com/yzfly/wonderful-prompts)
