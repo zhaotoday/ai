@@ -82,6 +82,7 @@
 - [browser-use](https://github.com/browser-use/browser-use)
 - [upscayl](https://github.com/upscayl/upscayl)
 - [opensumi](https://github.com/opensumi/core)
+- [ai-assistant-electron](https://github.com/Andaroth/ai-assistant-electron)
 
 #### 提示词
 - [Prompts 精选](https://github.com/yzfly/wonderful-prompts)
