@@ -80,6 +80,7 @@
 - [ChatTTS](https://github.com/2noise/ChatTTS)
 - [nanobrowser](https://github.com/nanobrowser/nanobrowser)
 - [browser-use](https://github.com/browser-use/browser-use)
+- [upscayl](https://github.com/upscayl/upscayl)
 
 #### 提示词
 - [Prompts 精选](https://github.com/yzfly/wonderful-prompts)
