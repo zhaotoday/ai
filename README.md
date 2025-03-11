@@ -51,6 +51,7 @@
 - [open-webui](https://github.com/open-webui/open-webui)
 
 #### 开源
+- [Instagram-AI-Agent](https://github.com/David-patrick-chuks/Instagram-AI-Agent)
 - [chatbox](https://github.com/Bin-Huang/chatbox)
 - [khoj](https://github.com/khoj-ai/khoj)
 - [One API](https://github.com/songquanpeng/one-api)
