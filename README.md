@@ -83,6 +83,7 @@
 - [upscayl](https://github.com/upscayl/upscayl)
 - [opensumi](https://github.com/opensumi/core)
 - [ai-assistant-electron](https://github.com/Andaroth/ai-assistant-electron)
+- [AIHub](https://github.com/classfang/AIHub)
 
 #### 提示词
 - [Prompts 精选](https://github.com/yzfly/wonderful-prompts)
