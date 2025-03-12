@@ -34,6 +34,7 @@
 - [火山引擎 OpenAPI node sdk](https://github.com/volcengine/volc-sdk-nodejs/blob/main/README_zh.md)
 
 #### UI 界面
+- [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue)
 - [Ant Design X](https://x.ant.design/index-cn)
 - [chatgpt-web](https://github.com/Niek/chatgpt-web)
 - [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)
