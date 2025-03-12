@@ -14,7 +14,7 @@
 #### 官网
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
-#### 网站
+#### 竞品
 - [商量 AI](https://chat.sensetime.com/)
 
 #### 平台
