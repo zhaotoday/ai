@@ -15,7 +15,8 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 竞品
-- [商量 AI](https://chat.sensetime.com/)
+- [商量](https://chat.sensetime.com/)
+- [refly](https://refly.ai/)
 
 #### 平台
 - [硅基流动](https://siliconflow.cn/zh-cn/)
