@@ -15,6 +15,7 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 竞品
+- [知乎直达](https://zhida.zhihu.com/)
 - [商量](https://chat.sensetime.com/)
 - [refly](https://refly.ai/)
 
