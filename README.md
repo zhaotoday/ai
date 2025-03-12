@@ -57,6 +57,7 @@
 - [open-webui](https://github.com/open-webui/open-webui)
 
 #### 开源
+- [agent-zero](https://github.com/frdel/agent-zero)
 - [owl](https://github.com/camel-ai/owl)
 - [Instagram-AI-Agent](https://github.com/David-patrick-chuks/Instagram-AI-Agent)
 - [chatbox](https://github.com/Bin-Huang/chatbox)
