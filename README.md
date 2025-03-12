@@ -185,6 +185,7 @@
 - [AI工具集](https://ai-bot.cn/)
 
 #### Awesome
+- [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
 - [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)
 - [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools/blob/main/README-CN.md)
 - [Awesome AI](https://github.com/cssmagic/Awesome-AI)
