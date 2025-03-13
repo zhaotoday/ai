@@ -57,6 +57,7 @@
 - [open-webui](https://github.com/open-webui/open-webui)
 
 #### 开源
+- [ragflow](https://github.com/infiniflow/ragflow)
 - [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain)
 - [agent-zero](https://github.com/frdel/agent-zero)
 - [owl](https://github.com/camel-ai/owl)
