@@ -57,6 +57,7 @@
 - [open-webui](https://github.com/open-webui/open-webui)
 
 #### 开源
+- [livekit/agents](https://github.com/livekit/agents)
 - [ragflow](https://github.com/infiniflow/ragflow)
 - [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain)
 - [agent-zero](https://github.com/frdel/agent-zero)
