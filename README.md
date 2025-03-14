@@ -129,6 +129,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [使用 GPT-crawler 构建 RAG 应用的完整指南](https://blog.csdn.net/sagvWSRJHMNEB/article/details/145289431)
 - [国产开源AI平台Cherry Studio详解：联网搜索升级与ChatBox对比指南](https://juejin.cn/post/7476798809341624357)
 - [DeepSeek引发行业变局，2025 IT人该如何破局抓住机遇](https://juejin.cn/post/7468203211725783094)
 - [前端开发又幸福了，Cursor + Figma MCP 快速还原设计稿](https://juejin.cn/post/7480183580120055819)
