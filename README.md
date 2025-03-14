@@ -20,6 +20,7 @@
 - [知乎直答](https://zhida.zhihu.com/)
 - [商量](https://chat.sensetime.com/)
 - [refly](https://refly.ai/)
+- [ima](https://ima.qq.com/)
 
 #### 平台
 - [硅基流动](https://siliconflow.cn/zh-cn/)
