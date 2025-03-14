@@ -58,8 +58,6 @@
 - [open-webui](https://github.com/open-webui/open-webui)
 
 #### 开源
-- [dify-plus](https://github.com/YFGaia/dify-plus)
-- [dify](https://github.com/langgenius/dify)
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code)
 - [self-operating-computer](https://github.com/OthersideAI/self-operating-computer)
 - [livekit/agents](https://github.com/livekit/agents)
