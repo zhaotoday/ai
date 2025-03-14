@@ -128,6 +128,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [DeepSeek引发行业变局，2025 IT人该如何破局抓住机遇](https://juejin.cn/post/7468203211725783094)
 - [前端开发又幸福了，Cursor + Figma MCP 快速还原设计稿](https://juejin.cn/post/7480183580120055819)
 - [漫画：什么是智能体（Agent）？](https://juejin.cn/post/7423708823426727977)
 - [为什么整个 AI 领域都朝着 AI Agent 的方向发展？](https://juejin.cn/post/7356625386665426944)
