@@ -60,6 +60,7 @@
 - [open-webui](https://github.com/open-webui/open-webui)
 
 #### 开源
+- [ai-collection](https://github.com/ai-collection/ai-collection)
 - [Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit)
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code)
 - [self-operating-computer](https://github.com/OthersideAI/self-operating-computer)
