@@ -60,6 +60,7 @@
 - [open-webui](https://github.com/open-webui/open-webui)
 
 #### 开源
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
 - [xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server)
 - [ai-collection](https://github.com/ai-collection/ai-collection)
 - [Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit)
