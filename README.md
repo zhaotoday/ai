@@ -61,6 +61,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api)
 - [new-api](https://github.com/Calcium-Ion/new-api)
 - [one-api](https://github.com/songquanpeng/one-api)
 - [bailing](https://github.com/wwbin2017/bailing)
