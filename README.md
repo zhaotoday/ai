@@ -28,6 +28,9 @@
 - [futurepedia](https://www.futurepedia.io/)
 - [魔搭社区](https://www.modelscope.cn/home)
 
+#### 博客
+- [三金](https://blog.ihsxu.com/)
+
 #### 工具
 - [bolt](https://bolt.new/)
 - [v0](https://v0.dev/)
