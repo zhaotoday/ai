@@ -27,6 +27,7 @@
 - [302 AI](https://302.ai/)
 - [futurepedia](https://www.futurepedia.io/)
 - [魔搭社区](https://www.modelscope.cn/home)
+- [智谱AI开放平台](https://bigmodel.cn/)
 
 #### 博客
 - [三金](https://blog.ihsxu.com/)
