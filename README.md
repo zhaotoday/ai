@@ -28,6 +28,7 @@
 - [futurepedia](https://www.futurepedia.io/)
 - [魔搭社区](https://www.modelscope.cn/home)
 - [智谱AI开放平台](https://bigmodel.cn/)
+- [Deepbricks](https://deepbricks.ai/pricing)
 
 #### 博客
 - [三金](https://blog.ihsxu.com/)
