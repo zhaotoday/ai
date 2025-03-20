@@ -22,6 +22,7 @@
 - [refly](https://refly.ai/)
 - [ima](https://ima.qq.com/)
 - [Chatbox AI](https://chatboxai.app/zh)
+- [WiseMind AI](https://wisemind-ai.com/)
 
 #### 平台
 - [硅基流动](https://siliconflow.cn/zh-cn/)
