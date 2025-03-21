@@ -15,6 +15,7 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 竞品
+- [豆包](https://www.doubao.com/chat/)
 - [KIMI](https://kimi.moonshot.cn/)
 - [腾讯元宝](https://yuanbao.tencent.com/chat)
 - [扣子](https://www.coze.cn/)
