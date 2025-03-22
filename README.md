@@ -72,6 +72,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
 - [deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api)
 - [new-api](https://github.com/Calcium-Ion/new-api)
 - [one-api](https://github.com/songquanpeng/one-api)
