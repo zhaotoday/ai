@@ -72,6 +72,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
 - [Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS)
 - [Second-Me](https://github.com/mindverse/Second-Me)
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
