@@ -72,6 +72,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [supervision](https://github.com/roboflow/supervision)
 - [frigate](https://github.com/blakeblackshear/frigate)
 - [DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
 - [Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS)
