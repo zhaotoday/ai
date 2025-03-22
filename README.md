@@ -72,6 +72,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [Suno-API](https://github.com/SunoAI-API/Suno-API)
 - [supervision](https://github.com/roboflow/supervision)
 - [frigate](https://github.com/blakeblackshear/frigate)
 - [DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
