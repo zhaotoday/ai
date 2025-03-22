@@ -72,6 +72,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [buster](https://github.com/dessant/buster)
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 - [Suno-API](https://github.com/SunoAI-API/Suno-API)
 - [supervision](https://github.com/roboflow/supervision)
