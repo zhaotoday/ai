@@ -158,6 +158,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [✨AI Agent✨一文整明白](https://juejin.cn/post/7471965204350042127)
 - [教大家本地搭建一键换装AI开源工具 OOTDiffusion](https://juejin.cn/post/7350555794146279461)
 - [通过 NewAPI 接入 Dify 后支持哪些应用？](https://juejin.cn/post/7450784806906265635)
 - [使用 GPT-crawler 构建 RAG 应用的完整指南](https://blog.csdn.net/sagvWSRJHMNEB/article/details/145289431)
