@@ -160,6 +160,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [几个技巧，教你去除文章的 AI 味！](https://juejin.cn/post/7483083622033899557)
 - [AI 代理框架深度对比分享：Agno、OpenManus 和 OWL](https://juejin.cn/post/7481238697553297442)
 - [✨AI Agent✨一文整明白](https://juejin.cn/post/7471965204350042127)
 - [教大家本地搭建一键换装AI开源工具 OOTDiffusion](https://juejin.cn/post/7350555794146279461)
