@@ -72,6 +72,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [exo](https://github.com/exo-explore/exo)
 - [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
 - [open-computer-use](https://github.com/e2b-dev/open-computer-use)
 - [buster](https://github.com/dessant/buster)
