@@ -55,6 +55,7 @@
 #### UI 界面
 - [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue)
 - [Ant Design X](https://x.ant.design/index-cn)
+- [Element-Plus-X](https://github.com/HeJiaYue520/Element-Plus-X)
 - [chatgpt-web](https://github.com/Niek/chatgpt-web)
 - [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)
 - [chatgpt](https://github.com/putyy/chatgpt)
