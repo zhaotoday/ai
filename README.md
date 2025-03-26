@@ -73,7 +73,6 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
-- [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 - [exo](https://github.com/exo-explore/exo)
 - [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
 - [open-computer-use](https://github.com/e2b-dev/open-computer-use)
