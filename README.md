@@ -73,6 +73,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [midscene](https://github.com/web-infra-dev/midscene)
 - [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 - [cursor-help](https://github.com/Nikitosshow/cursor-help)
 - [exo](https://github.com/exo-explore/exo)
