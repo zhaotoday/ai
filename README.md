@@ -163,6 +163,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [如何搭建公司内部知识库的大模型小助手](https://juejin.cn/post/7350978454311911464)
 - [Deepseek赚钱密码：小场景闭环如何让你快速盈利？](https://juejin.cn/post/7473011797437923355)
 - [几个技巧，教你去除文章的 AI 味！](https://juejin.cn/post/7483083622033899557)
 - [AI 代理框架深度对比分享：Agno、OpenManus 和 OWL](https://juejin.cn/post/7481238697553297442)
