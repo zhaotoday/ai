@@ -73,6 +73,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [opensumi](https://github.com/opensumi/core)
 - [khoj](https://github.com/khoj-ai/khoj)
 - [midscene](https://github.com/web-infra-dev/midscene)
 - [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
