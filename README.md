@@ -10,6 +10,7 @@
 - [火山引擎 - 机器翻译](https://www.volcengine.com/docs/4640/65065)
 - [Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 - [面向开发者的大模型手册 - LLM Cookbook](https://datawhalechina.github.io/llm-cookbook/#/)
+- [动手学深度学习](https://github.com/d2l-ai/d2l-zh)
 
 #### 官网
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
