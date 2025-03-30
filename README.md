@@ -37,6 +37,7 @@
 - [智谱AI开放平台](https://bigmodel.cn/)
 - [Deepbricks](https://deepbricks.ai/pricing)
 - [MaxKB](https://maxkb.cn/)
+- [FastGPT](https://fastgpt.cn/)
 
 #### 博客
 - [三金](https://blog.ihsxu.com/)
