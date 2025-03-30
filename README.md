@@ -74,6 +74,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [AstrBot](https://github.com/AstrBotDevs/AstrBot)
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [opensumi](https://github.com/opensumi/core)
 - [khoj](https://github.com/khoj-ai/khoj)
