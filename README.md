@@ -176,6 +176,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [老婆问我：“大模型的 Token 究竟是个啥？”](https://juejin.cn/post/7480431348487307291)
 - [自己跑 AI 模型和知识库，永远免费用！](https://juejin.cn/post/7440451683588800562)
 - [你老板还在逼你接入AI么？先来看看我这篇AI 产品落地全流程🧐](https://juejin.cn/post/7482695183477047315)
 - [前端自给自足UI设计稿（Claude AI 版本）](https://juejin.cn/post/7477399364533485622)
