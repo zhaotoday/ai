@@ -28,6 +28,8 @@
 - [ima](https://ima.qq.com/)
 - [Chatbox AI](https://chatboxai.app/zh)
 - [WiseMind AI](https://wisemind-ai.com/)
+- [即梦](https://jimeng.jianying.com/)
+- [智谱清言](https://chatglm.cn/)
 
 #### 平台
 - [硅基流动](https://siliconflow.cn/zh-cn/)
@@ -49,7 +51,6 @@
 - [pinokio](https://pinokio.computer/)
 - [reweb](https://www.reweb.so/)
 - [same](https://same.new/)
-- [即梦](https://jimeng.jianying.com/)
 
 #### 教程
 - [Understanding DeepLearning](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN)
