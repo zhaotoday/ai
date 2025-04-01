@@ -76,6 +76,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [voice-pro](https://github.com/abus-aikorea/voice-pro)
 - [Roo-Code](https://github.com/RooVetGit/Roo-Code)
 - [LangBot](https://github.com/RockChinQ/LangBot)
 - [AstrBot](https://github.com/AstrBotDevs/AstrBot)
