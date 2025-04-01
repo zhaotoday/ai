@@ -49,6 +49,7 @@
 - [pinokio](https://pinokio.computer/)
 - [reweb](https://www.reweb.so/)
 - [same](https://same.new/)
+- [即梦](https://jimeng.jianying.com/)
 
 #### 教程
 - [Understanding DeepLearning](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN)
