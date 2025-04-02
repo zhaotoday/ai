@@ -31,6 +31,7 @@
 - [即梦](https://jimeng.jianying.com/)
 - [智谱清言](https://chatglm.cn/)
 - [monica](https://monica.cn/)
+- [lunabot](https://lunabot.ai/zh)
 
 #### 平台
 - [硅基流动](https://siliconflow.cn/zh-cn/)
