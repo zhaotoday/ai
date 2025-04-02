@@ -181,6 +181,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [字节跳动 MegaTTS3 开源：0.45B 参数实现高质量中英双语 TTS 与语音克隆](https://blog.csdn.net/nulifancuoAI/article/details/146778609)
 - [超实用！用 Ollama + DeepSeek + Dify 搭建本地知识库，提升企业效率](https://juejin.cn/post/7470761037743587366)
 - [前端自给自足UI设计稿（Claude AI 版本）](https://juejin.cn/post/7477399364533485622)
 - [『SD』分享几个我觉得不错的大模型](https://juejin.cn/post/7487396530656673818)
