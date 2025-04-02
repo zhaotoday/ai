@@ -40,6 +40,7 @@
 - [Deepbricks](https://deepbricks.ai/pricing)
 - [MaxKB](https://maxkb.cn/)
 - [FastGPT](https://fastgpt.cn/)
+- [activepieces](https://www.activepieces.com/)
 
 #### 博客
 - [三金](https://blog.ihsxu.com/)
