@@ -43,6 +43,7 @@
 - [MaxKB](https://maxkb.cn/)
 - [FastGPT](https://fastgpt.cn/)
 - [activepieces](https://www.activepieces.com/)
+- [LinkAI](https://link-ai.tech/portal)
 
 #### 博客
 - [三金](https://blog.ihsxu.com/)
