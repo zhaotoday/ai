@@ -182,6 +182,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [deepseek财富密码：认知升级是赚钱的第一步](https://juejin.cn/post/7470734690443853887)
 - [AI Agent自动化操作浏览器的发展与应用](https://juejin.cn/post/7470473691857567754)
 - [字节跳动 MegaTTS3 开源：0.45B 参数实现高质量中英双语 TTS 与语音克隆](https://blog.csdn.net/nulifancuoAI/article/details/146778609)
 - [超实用！用 Ollama + DeepSeek + Dify 搭建本地知识库，提升企业效率](https://juejin.cn/post/7470761037743587366)
