@@ -82,6 +82,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses)
 - [FastGPT](https://github.com/labring/FastGPT)
 - [voice-pro](https://github.com/abus-aikorea/voice-pro)
 - [Roo-Code](https://github.com/RooVetGit/Roo-Code)
