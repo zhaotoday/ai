@@ -187,6 +187,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [开源最强AI视频生成加速版！](https://juejin.cn/post/7402204612143431690)
 - [DeepSeek+AI数字人工具，简直王炸！2步搞定不露脸口播视频（附保姆级教程）](https://juejin.cn/post/7477688695287463990)
 - [deepseek财富密码：认知升级是赚钱的第一步](https://juejin.cn/post/7470734690443853887)
 - [AI Agent自动化操作浏览器的发展与应用](https://juejin.cn/post/7470473691857567754)
