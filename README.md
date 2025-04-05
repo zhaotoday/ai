@@ -32,6 +32,7 @@
 - [智谱清言](https://chatglm.cn/)
 - [monica](https://monica.cn/)
 - [lunabot](https://lunabot.ai/zh)
+- [comfy](https://www.comfy.org/zh-cn/)
 
 #### 平台
 - [硅基流动](https://siliconflow.cn/zh-cn/)
