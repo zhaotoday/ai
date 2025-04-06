@@ -45,6 +45,7 @@
 - [FastGPT](https://fastgpt.cn/)
 - [activepieces](https://www.activepieces.com/)
 - [LinkAI](https://link-ai.tech/portal)
+- [大模型聚合](https://www.dmxapi.cn/)
 
 #### 博客
 - [三金](https://blog.ihsxu.com/)
