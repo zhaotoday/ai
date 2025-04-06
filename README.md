@@ -84,6 +84,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [vlm_arm](https://github.com/TommyZihao/vlm_arm)
 - [ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)
 - [aime-box](https://github.com/AimeBox/aime-box)
 - [awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses)
