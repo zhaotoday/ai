@@ -85,6 +85,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [WeChatMsg](https://github.com/LC044/WeChatMsg)
 - [suno-api](https://github.com/gcui-art/suno-api)
 - [vlm_arm](https://github.com/TommyZihao/vlm_arm)
 - [ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)
