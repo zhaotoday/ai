@@ -85,6 +85,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [sim](https://github.com/simstudioai/sim)
 - [letta](https://github.com/letta-ai/letta)
 - [WeChatMsg](https://github.com/LC044/WeChatMsg)
 - [suno-api](https://github.com/gcui-art/suno-api)
