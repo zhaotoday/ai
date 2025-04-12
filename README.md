@@ -87,6 +87,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [minimax-free-api](https://github.com/LLM-Red-Team/minimax-free-api)
 - [MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01)
 - [lerobot](https://github.com/huggingface/lerobot)
