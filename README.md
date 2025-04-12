@@ -58,6 +58,7 @@
 - [reweb](https://www.reweb.so/)
 - [same](https://same.new/)
 - [minimaxi](https://minimaxi.com/)
+- [录咖](https://reccloud.cn/)
 
 #### 教程
 - [Understanding DeepLearning](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN)
