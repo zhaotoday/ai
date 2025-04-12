@@ -86,6 +86,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [AstrBot](https://github.com/AstrBotDevs/AstrBot)
 - [lerobot](https://github.com/huggingface/lerobot)
 - [midscene](https://github.com/web-infra-dev/midscene)
 - [duix.ai](https://github.com/GuijiAI/duix.ai)
