@@ -88,6 +88,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [ChatALL](https://github.com/ai-shifu/ChatALL)
 - [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [minimax-free-api](https://github.com/LLM-Red-Team/minimax-free-api)
