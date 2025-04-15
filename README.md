@@ -89,6 +89,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [SoraWebui](https://github.com/SoraWebui/SoraWebui)
 - [alltalk_tts](https://github.com/erew123/alltalk_tts)
 - [ChatALL](https://github.com/ai-shifu/ChatALL)
 - [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
