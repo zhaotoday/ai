@@ -90,6 +90,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [AiPPT](https://github.com/veasion/AiPPT)
 - [ai-to-pptx](https://github.com/SmartSchoolAI/ai-to-pptx)
 - [KrillinAI](https://github.com/krillinai/KrillinAI)
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
