@@ -90,6 +90,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [KrillinAI](https://github.com/krillinai/KrillinAI)
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 - [SoraWebui](https://github.com/SoraWebui/SoraWebui)
 - [alltalk_tts](https://github.com/erew123/alltalk_tts)
