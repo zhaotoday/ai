@@ -47,6 +47,7 @@
 - [LinkAI](https://link-ai.tech/portal)
 - [大模型聚合](https://www.dmxapi.cn/)
 - [老张API](https://laozhang.ai/)
+- [AI神器大全](https://aishenqi.net/)
 
 #### 博客
 - [三金](https://blog.ihsxu.com/)
