@@ -33,6 +33,7 @@
 - [monica](https://monica.cn/)
 - [lunabot](https://lunabot.ai/zh)
 - [comfy](https://www.comfy.org/zh-cn/)
+- [deepchat](https://deepchat.thinkinai.xyz/)
 
 #### 平台
 - [硅基流动](https://siliconflow.cn/zh-cn/)
