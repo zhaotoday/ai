@@ -15,7 +15,7 @@
 #### 官网
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
-#### 竞品
+#### 产品
 - [秘塔](https://metaso.cn/)
 - [豆包](https://www.doubao.com/chat/)
 - [KIMI](https://kimi.moonshot.cn/)
@@ -35,6 +35,7 @@
 - [comfy](https://www.comfy.org/zh-cn/)
 - [deepchat](https://deepchat.thinkinai.xyz/)
 - [chatwise](https://chatwise.app/)
+- [folotoy](https://folotoy.com/zh/)
 
 #### 平台
 - [硅基流动](https://siliconflow.cn/zh-cn/)
