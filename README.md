@@ -34,6 +34,7 @@
 - [lunabot](https://lunabot.ai/zh)
 - [comfy](https://www.comfy.org/zh-cn/)
 - [deepchat](https://deepchat.thinkinai.xyz/)
+- [chatwise](https://chatwise.app/)
 
 #### 平台
 - [硅基流动](https://siliconflow.cn/zh-cn/)
