@@ -93,6 +93,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [AUITestAgent](https://github.com/bz-lab/AUITestAgent)
 - [pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai)
 - [AiPPT](https://github.com/veasion/AiPPT)
 - [ai-to-pptx](https://github.com/SmartSchoolAI/ai-to-pptx)
