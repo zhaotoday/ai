@@ -93,7 +93,6 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
-- [skyvern](https://github.com/Skyvern-AI/skyvern)
 - [AUITestAgent](https://github.com/bz-lab/AUITestAgent)
 - [pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai)
 - [AiPPT](https://github.com/veasion/AiPPT)
