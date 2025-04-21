@@ -93,6 +93,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [douyin-chatgpt-bot](https://github.com/pen9un/douyin-chatgpt-bot)
 - [AingDesk](https://github.com/aingdesk/AingDesk)
 - [Yuxi-Know](https://github.com/xerrors/Yuxi-Know)
 - [GoMaxAI-ChatGPT-Midjourney-Pro](https://github.com/51yuese/GoMaxAI-ChatGPT-Midjourney-Pro)
