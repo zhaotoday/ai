@@ -93,6 +93,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [GoMaxAI-ChatGPT-Midjourney-Pro](https://github.com/51yuese/GoMaxAI-ChatGPT-Midjourney-Pro)
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [AUITestAgent](https://github.com/bz-lab/AUITestAgent)
 - [pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai)
