@@ -93,6 +93,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
 - [AFFiNE](https://github.com/toeverything/AFFiNE)
 - [douyin-chatgpt-bot](https://github.com/pen9un/douyin-chatgpt-bot)
 - [AingDesk](https://github.com/aingdesk/AingDesk)
