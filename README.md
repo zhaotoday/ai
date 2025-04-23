@@ -94,6 +94,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [mi-gpt](https://github.com/idootop/mi-gpt)
 - [Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
 - [lmnr-ai/index](https://github.com/lmnr-ai/index)
 - [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
