@@ -38,6 +38,7 @@
 - [folotoy](https://folotoy.com/zh/)
 
 #### 平台
+- [Bulu AI](https://www.buluai.cn/home/index)
 - [KG API](https://kg-api.cloud/)
 - [硅基流动](https://siliconflow.cn/zh-cn/)
 - [302 AI](https://302.ai/)
