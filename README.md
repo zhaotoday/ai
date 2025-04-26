@@ -229,6 +229,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [牛牛牛！又一个超强AI换脸，免费开源了！](https://juejin.cn/post/7441006286765539354)
 - [小米音箱+DeepSeek，小爱秒变"贾维斯"！【喂饭级教程】](https://mp.weixin.qq.com/s/QQBU-Ir4sU8zSYjR4MSfdQ)
 - [LLM大模型新手训练指南](https://juejin.cn/post/7389209265947934772)
 - [Vue3+TS极简集成指南：10分钟实现ChatGPT式流式对话效果](https://juejin.cn/post/7478497062449741851)
