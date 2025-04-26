@@ -95,6 +95,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [opik](https://github.com/comet-ml/opik)
 - [ToolJet](https://github.com/ToolJet/ToolJet)
 - [mi-gpt](https://github.com/idootop/mi-gpt)
 - [Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
