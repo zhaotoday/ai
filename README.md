@@ -95,6 +95,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [超级爆火的TTS模型：Kokoro！荣登 TTS Arena 排行榜第一名，小巧轻量高性能！](https://juejin.cn/post/7460091261762551849)
 - [MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus)
 - [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio)
 - [opik](https://github.com/comet-ml/opik)
