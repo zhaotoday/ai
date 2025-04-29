@@ -232,6 +232,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [AI视频自动剪辑已成现实！阿里这款免费开源的视频剪辑神器请收好，打工人福音！（附详细教程）](https://juejin.cn/post/7404777076090044426)
 - [25K star！实时视频换脸，不要轻易相信你看到的](https://juejin.cn/post/7430693224174256155)
 - [超越Elasticsearch！号称下一代搜索引擎，性能炸裂！](https://juejin.cn/post/7496400838514622473)
 - [牛牛牛！又一个超强AI换脸，免费开源了！](https://juejin.cn/post/7441006286765539354)
