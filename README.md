@@ -234,6 +234,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [AI老照片修复视频保姆级教程](https://juejin.cn/post/7398709913570803747)
 - [开源最强数字人，一键整合包来啦！](https://juejin.cn/post/7390631421310353418)
 - [AI无限换脸 - Facefusion最新3.0.1版整合包](https://juejin.cn/post/7450295337778757686)
 - [AI视频自动剪辑已成现实！阿里这款免费开源的视频剪辑神器请收好，打工人福音！（附详细教程）](https://juejin.cn/post/7404777076090044426)
