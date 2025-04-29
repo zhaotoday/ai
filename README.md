@@ -95,6 +95,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus)
 - [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio)
 - [opik](https://github.com/comet-ml/opik)
 - [ToolJet](https://github.com/ToolJet/ToolJet)
