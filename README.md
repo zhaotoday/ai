@@ -96,7 +96,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
-- [超级爆火的TTS模型：Kokoro！荣登 TTS Arena 排行榜第一名，小巧轻量高性能！](https://juejin.cn/post/7460091261762551849)
+- [clone-voice](https://github.com/jianchang512/clone-voice)
 - [MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus)
 - [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio)
 - [opik](https://github.com/comet-ml/opik)
@@ -235,6 +235,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [超级爆火的TTS模型：Kokoro！荣登 TTS Arena 排行榜第一名，小巧轻量高性能！](https://juejin.cn/post/7460091261762551849)
 - [AI老照片修复视频保姆级教程](https://juejin.cn/post/7398709913570803747)
 - [开源最强数字人，一键整合包来啦！](https://juejin.cn/post/7390631421310353418)
 - [AI无限换脸 - Facefusion最新3.0.1版整合包](https://juejin.cn/post/7450295337778757686)
