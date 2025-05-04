@@ -97,6 +97,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [TuyaOpen](https://github.com/tuya/TuyaOpen)
 - [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)
 - [fish-speech](https://github.com/fishaudio/fish-speech)
 - [clone-voice](https://github.com/jianchang512/clone-voice)
