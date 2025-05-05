@@ -97,6 +97,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
 - [AingDesk](https://github.com/aingdesk/AingDesk)
 - [droidrun](https://github.com/droidrun/droidrun)
 - [TuyaOpen](https://github.com/tuya/TuyaOpen)
