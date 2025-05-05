@@ -41,6 +41,7 @@
 - [Vidu](https://www.vidu.com/zh)
 
 #### 平台
+- [360 AI 导航](https://ai.hao.360.com/)
 - [Bulu AI](https://www.buluai.cn/home/index)
 - [KG API](https://kg-api.cloud/)
 - [硅基流动](https://siliconflow.cn/zh-cn/)
