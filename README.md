@@ -98,6 +98,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [XLeRobot](https://github.com/Vector-Wangel/XLeRobot)
 - [easy-dataset](https://github.com/ConardLi/easy-dataset)
 - [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
 - [AingDesk](https://github.com/aingdesk/AingDesk)
