@@ -97,6 +97,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [easy-dataset](https://github.com/ConardLi/easy-dataset)
 - [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
 - [AingDesk](https://github.com/aingdesk/AingDesk)
 - [droidrun](https://github.com/droidrun/droidrun)
