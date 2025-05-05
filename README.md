@@ -246,6 +246,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [vue3仿Deepseek/ChatGPT流式聊天AI界面，对接deepseek/OpenAI API](https://juejin.cn/post/7482037724398485542)
 - [国产AI工具「神笔马良」！只需上传剧本，AI一键成片！（附保姆级教程）](https://juejin.cn/post/7420268047695446035)
 - [超级爆火的TTS模型：Kokoro！荣登 TTS Arena 排行榜第一名，小巧轻量高性能！](https://juejin.cn/post/7460091261762551849)
 - [AI老照片修复视频保姆级教程](https://juejin.cn/post/7398709913570803747)
