@@ -38,6 +38,7 @@
 - [deepchat](https://deepchat.thinkinai.xyz/)
 - [chatwise](https://chatwise.app/)
 - [folotoy](https://folotoy.com/zh/)
+- [Vidu](https://www.vidu.com/zh)
 
 #### 平台
 - [Bulu AI](https://www.buluai.cn/home/index)
