@@ -16,6 +16,7 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 产品
+- [genspark](https://www.genspark.ai/)
 - [fish.audio](https://fish.audio/zh-CN/)
 - [通义万象](https://tongyi.aliyun.com/wanxiang/)
 - [秘塔](https://metaso.cn/)
