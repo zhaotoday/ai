@@ -79,6 +79,7 @@
 - [火山引擎 OpenAPI node sdk](https://github.com/volcengine/volc-sdk-nodejs/blob/main/README_zh.md)
 
 #### UI 界面
+- [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp)
 - [chatui](https://chatui.io/)
 - [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue)
 - [Ant Design X](https://x.ant.design/index-cn)
