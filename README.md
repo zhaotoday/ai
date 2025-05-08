@@ -101,6 +101,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [deer-flow](https://github.com/bytedance/deer-flow)
 - [PocketFlow](https://github.com/The-Pocket/PocketFlow)
 - [XLeRobot](https://github.com/Vector-Wangel/XLeRobot)
 - [easy-dataset](https://github.com/ConardLi/easy-dataset)
