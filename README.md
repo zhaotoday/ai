@@ -101,6 +101,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [GPT_API_free](https://github.com/chatanywhere/GPT_API_free)
 - [kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api)
 - [deer-flow](https://github.com/bytedance/deer-flow)
 - [PocketFlow](https://github.com/The-Pocket/PocketFlow)
