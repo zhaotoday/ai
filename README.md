@@ -102,6 +102,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [mlx-audio](https://github.com/Blaizzy/mlx-audio)
 - [lobe-chat](https://github.com/lobehub/lobe-chat)
 - [GPT_API_free](https://github.com/chatanywhere/GPT_API_free)
 - [kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api)
