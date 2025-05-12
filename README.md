@@ -102,6 +102,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [codex](https://github.com/openai/codex)
 - [OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat)
 - [flowgram.ai](https://github.com/bytedance/flowgram.ai)
 - [mlx-audio](https://github.com/Blaizzy/mlx-audio)
