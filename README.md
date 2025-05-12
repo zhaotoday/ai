@@ -103,6 +103,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [minimind](https://github.com/jingyaogong/minimind)
 - [browserbase/stagehand](https://github.com/browserbase/stagehand)
 - [codex](https://github.com/openai/codex)
 - [OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat)
