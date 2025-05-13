@@ -103,6 +103,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [WeClone](https://github.com/xming521/WeClone)
 - [InternVL](https://github.com/OpenGVLab/InternVL)
 - [minimind](https://github.com/jingyaogong/minimind)
 - [browserbase/stagehand](https://github.com/browserbase/stagehand)
