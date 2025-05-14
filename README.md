@@ -45,6 +45,7 @@
 - [Vidu](https://www.vidu.com/zh)
 
 #### 导航
+- [万彩 AI](https://ai.kezhan365.com/)
 - [AI开源项目榜单](https://www.aibase.com/zh/repos/ranking/project)
 - [UISDC](https://hao.uisdc.com/ai/)
 - [AIGC](https://aigc.izzi.cn/)
