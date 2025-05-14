@@ -17,6 +17,7 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 产品
+- [SEO.ING](https://www.seo.ing/zh)
 - [Qwen](https://chat.qwen.ai/)
 - [genspark](https://www.genspark.ai/)
 - [fish.audio](https://fish.audio/zh-CN/)
