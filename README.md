@@ -47,6 +47,7 @@
 - [万彩 AI](https://ai.kezhan365.com/)
 
 #### 导航
+- [AIHub](https://www.aihub.cn/)
 - [AI神器集](https://hao.logosc.cn/)
 - [AI开源项目榜单](https://www.aibase.com/zh/repos/ranking/project)
 - [UISDC](https://hao.uisdc.com/ai/)
