@@ -45,6 +45,7 @@
 - [Vidu](https://www.vidu.com/zh)
 
 #### 导航
+- [UISDC](https://hao.uisdc.com/ai/)
 - [AIGC](https://aigc.izzi.cn/)
 - [图钉 AI 导航](https://www.tudingai.com/)
 - [aigc.cn](https://www.aigc.cn/)
