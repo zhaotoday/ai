@@ -17,6 +17,7 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 产品
+- [笔灵 AI](https://ibiling.cn/)
 - [SEO.ING](https://www.seo.ing/zh)
 - [Qwen](https://chat.qwen.ai/)
 - [genspark](https://www.genspark.ai/)
@@ -43,9 +44,9 @@
 - [chatwise](https://chatwise.app/)
 - [folotoy](https://folotoy.com/zh/)
 - [Vidu](https://www.vidu.com/zh)
+- [万彩 AI](https://ai.kezhan365.com/)
 
 #### 导航
-- [万彩 AI](https://ai.kezhan365.com/)
 - [AI开源项目榜单](https://www.aibase.com/zh/repos/ranking/project)
 - [UISDC](https://hao.uisdc.com/ai/)
 - [AIGC](https://aigc.izzi.cn/)
