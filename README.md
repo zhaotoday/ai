@@ -45,6 +45,7 @@
 - [Vidu](https://www.vidu.com/zh)
 
 #### 导航
+- [AI开源项目榜单](https://www.aibase.com/zh/repos/ranking/project)
 - [UISDC](https://hao.uisdc.com/ai/)
 - [AIGC](https://aigc.izzi.cn/)
 - [图钉 AI 导航](https://www.tudingai.com/)
