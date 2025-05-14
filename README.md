@@ -43,8 +43,11 @@
 - [folotoy](https://folotoy.com/zh/)
 - [Vidu](https://www.vidu.com/zh)
 
-#### 平台
+#### 导航
+- [发现 AI](https://www.faxianai.com/)
 - [360 AI 导航](https://ai.hao.360.com/)
+
+#### 平台
 - [Bulu AI](https://www.buluai.cn/home/index)
 - [KG API](https://kg-api.cloud/)
 - [硅基流动](https://siliconflow.cn/zh-cn/)
