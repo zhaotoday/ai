@@ -45,6 +45,7 @@
 - [Vidu](https://www.vidu.com/zh)
 
 #### 导航
+- [toolify.ai](https://www.toolify.ai/)
 - [发现 AI](https://www.faxianai.com/)
 - [360 AI 导航](https://ai.hao.360.com/)
 
