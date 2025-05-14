@@ -45,6 +45,7 @@
 - [Vidu](https://www.vidu.com/zh)
 
 #### 导航
+- [图钉 AI 导航](https://www.tudingai.com/)
 - [aigc.cn](https://www.aigc.cn/)
 - [AI 工具集](https://ai-bot.cn/)
 - [TopAI](https://topai.tools/)
