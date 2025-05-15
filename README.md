@@ -282,6 +282,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [AI产品的成本已经低到令人发指了！一顿午饭钱，就能顶住十万人提问](https://juejin.cn/post/7500234308431659019)
 - [5个免费可用AI声音克隆工具，90%的人都不知道！建议收藏，早晚用得上！（附保姆级教程）](https://juejin.cn/post/7487998346838868007)
 - [vue3仿Deepseek/ChatGPT流式聊天AI界面，对接deepseek/OpenAI API](https://juejin.cn/post/7482037724398485542)
 - [国产AI工具「神笔马良」！只需上传剧本，AI一键成片！（附保姆级教程）](https://juejin.cn/post/7420268047695446035)
