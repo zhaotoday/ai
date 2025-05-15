@@ -120,6 +120,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam)
 - [WeClone](https://github.com/xming521/WeClone)
 - [InternVL](https://github.com/OpenGVLab/InternVL)
 - [minimind](https://github.com/jingyaogong/minimind)
