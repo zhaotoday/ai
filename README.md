@@ -254,6 +254,7 @@
 - [ChatTTS](https://github.com/2noise/ChatTTS)
 - [nanobrowser](https://github.com/nanobrowser/nanobrowser)
 - [browser-use](https://github.com/browser-use/browser-use)
+- [workflow-use](https://github.com/browser-use/workflow-use)
 - [upscayl](https://github.com/upscayl/upscayl)
 - [opensumi](https://github.com/opensumi/core)
 - [ai-assistant-electron](https://github.com/Andaroth/ai-assistant-electron)
