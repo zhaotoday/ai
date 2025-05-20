@@ -122,6 +122,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [repomix](https://repomix.com/zh-cn/)
 - [void](https://github.com/voideditor/void)
 - [KrillinAI](https://github.com/krillinai/KrillinAI)
 - [unsloth](https://github.com/unslothai/unsloth)
