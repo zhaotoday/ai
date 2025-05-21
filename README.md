@@ -124,6 +124,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [eechat](https://github.com/Lucassssss/eechat)
 - [deepchat](https://github.com/ThinkInAIXYZ/deepchat)
 - [voltagent](https://github.com/voltagent/voltagent)
 - [repomix](https://repomix.com/zh-cn/)
