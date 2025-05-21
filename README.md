@@ -17,6 +17,7 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 产品
+- [eechat](https://www.ee.chat/zh)
 - [DeepChat](https://deepchat.thinkinai.xyz/)
 - [QQ 浏览器](https://browser.qq.com/)
 - [笔灵 AI](https://ibiling.cn/)
