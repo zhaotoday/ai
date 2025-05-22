@@ -126,6 +126,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
 - [Muyan-TTS](https://github.com/MYZY-AI/Muyan-TTS)
 - [eechat](https://github.com/Lucassssss/eechat)
 - [deepchat](https://github.com/ThinkInAIXYZ/deepchat)
