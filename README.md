@@ -1,4 +1,5 @@
 #### 文档
+- [Prompt Engineering 第一站](https://xiangyangqiaomu.feishu.cn/wiki/UWHzw21zZirBYXkok46cTXMpnuc)
 - [OpenAI 文档介绍](https://openai.xiniushu.com/)
 - [OpenAI（ChatGPT）](https://openai.apifox.cn/)
 - [提示工程指南](https://www.promptingguide.ai/zh)
