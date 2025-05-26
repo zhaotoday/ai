@@ -127,6 +127,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [claude-code](https://github.com/anthropics/claude-code)
 - [huggingface.js](https://github.com/huggingface/huggingface.js)
 - [openui](https://github.com/wandb/openui)
 - [PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
