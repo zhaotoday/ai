@@ -127,6 +127,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [telegram-search](https://github.com/groupultra/telegram-search)
 - [claude-code](https://github.com/anthropics/claude-code)
 - [huggingface.js](https://github.com/huggingface/huggingface.js)
 - [openui](https://github.com/wandb/openui)
