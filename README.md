@@ -307,6 +307,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [AI辅助开发的一些实践（42分钟完整模块开发录屏）](https://juejin.cn/post/7507982656668221478)
 - [Veo 3 AI视频生成工具入门指南：简单易懂，快速上手](https://juejin.cn/post/7506940141815414811)
 - [Claude3.7秒出架构图，你再不用就真的Out了](https://juejin.cn/post/7489480400558325800)
 - [AI产品的成本已经低到令人发指了！一顿午饭钱，就能顶住十万人提问](https://juejin.cn/post/7500234308431659019)
