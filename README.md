@@ -130,6 +130,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [pyspur](https://github.com/PySpur-Dev/pyspur)
 - [magentic-ui](https://github.com/microsoft/magentic-ui)
 - [telegram-search](https://github.com/groupultra/telegram-search)
 - [claude-code](https://github.com/anthropics/claude-code)
