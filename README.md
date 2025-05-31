@@ -131,6 +131,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
 - [chatterbox](https://github.com/resemble-ai/chatterbox)
 - [pyspur](https://github.com/PySpur-Dev/pyspur)
 - [magentic-ui](https://github.com/microsoft/magentic-ui)
