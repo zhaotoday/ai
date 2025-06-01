@@ -131,6 +131,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [n8n-workflows](https://github.com/Zie619/n8n-workflows)
 - [ganloss-latent-space](https://github.com/amao2001/ganloss-latent-space)
 - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
 - [chatterbox](https://github.com/resemble-ai/chatterbox)
