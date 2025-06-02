@@ -134,6 +134,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [scira](https://github.com/zaidmukaddam/scira)
 - [ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)
 - [marketing_creator_pro_max_uni](https://github.com/libn-net/marketing_creator_pro_max_uni)
 - [n8n-workflows](https://github.com/Zie619/n8n-workflows)
