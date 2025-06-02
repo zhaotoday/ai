@@ -108,6 +108,7 @@
 - [火山引擎 OpenAPI node sdk](https://github.com/volcengine/volc-sdk-nodejs/blob/main/README_zh.md)
 
 #### UI
+- [assistant-ui](https://www.assistant-ui.com/)
 - [deep-chat](https://github.com/OvidijusParsiunas/deep-chat)
 - [matechat](https://matechat.gitcode.com/)
 - [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp)
