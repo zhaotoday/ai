@@ -19,6 +19,7 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 产品
+- [replicate](https://replicate.com/explore)
 - [scira](https://scira.ai/)
 - [星月写作](https://xingyuexiezuo.com/#/welcome)
 - [NoCode](https://nocode.cn/)
