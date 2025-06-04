@@ -135,6 +135,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [chatlog](https://github.com/sjzar/chatlog)
 - [scira](https://github.com/zaidmukaddam/scira)
 - [ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)
 - [marketing_creator_pro_max_uni](https://github.com/libn-net/marketing_creator_pro_max_uni)
