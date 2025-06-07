@@ -138,6 +138,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [FellouAI/eko](https://github.com/FellouAI/eko)
 - [chatlog](https://github.com/sjzar/chatlog)
 - [scira](https://github.com/zaidmukaddam/scira)
 - [ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)
