@@ -139,6 +139,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [genaiscript](https://github.com/microsoft/genaiscript)
 - [FellouAI/eko](https://github.com/FellouAI/eko)
 - [chatlog](https://github.com/sjzar/chatlog)
 - [scira](https://github.com/zaidmukaddam/scira)
