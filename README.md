@@ -140,6 +140,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [AI-Writer](https://github.com/AJaySi/AI-Writer)
 - [FellouAI/eko](https://github.com/FellouAI/eko)
 - [chatlog](https://github.com/sjzar/chatlog)
 - [scira](https://github.com/zaidmukaddam/scira)
