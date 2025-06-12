@@ -140,6 +140,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [MaiBot](https://github.com/MaiM-with-u/MaiBot)
 - [RWKV-Runner](https://github.com/josStorer/RWKV-Runner)
 - [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 - [AI-Writer](https://github.com/AJaySi/AI-Writer)
