@@ -140,6 +140,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [CleanS2S](https://github.com/opendilab/CleanS2S)
 - [NarratorAI](https://github.com/Narrator-AI/NarratorAI)
 - [openvino_tonypi](https://github.com/TommyZihao/openvino_tonypi)
 - [nexent](https://github.com/ModelEngine-Group/nexent)
