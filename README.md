@@ -141,6 +141,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [LivePortrait](https://github.com/KwaiVGI/LivePortrait)
 - [glm-free-api](https://github.com/LLM-Red-Team/glm-free-api)
 - [NagaAgent](https://github.com/Xxiii8322766509/NagaAgent)
 - [CleanS2S](https://github.com/opendilab/CleanS2S)
