@@ -140,6 +140,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [openvino_tonypi](https://github.com/TommyZihao/openvino_tonypi)
 - [nexent](https://github.com/ModelEngine-Group/nexent)
 - [py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi)
 - [MaiBot](https://github.com/MaiM-with-u/MaiBot)
