@@ -14,6 +14,7 @@
 - [面向开发者的大模型手册 - LLM Cookbook](https://datawhalechina.github.io/llm-cookbook/#/)
 - [动手学深度学习](https://github.com/d2l-ai/d2l-zh)
 - [鱼皮的 AI 知识库](https://ai.codefather.cn/)
+- [动手学SpringAI](https://github.com/qifan777/dive-into-spring-ai)
 
 #### 官网
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
