@@ -152,6 +152,7 @@
 - [RWKV-Runner](https://github.com/josStorer/RWKV-Runner)
 - [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 - [AI-Writer](https://github.com/AJaySi/AI-Writer)
+- [🌍RWKV-x060-World-7B-v3-20241112-ctx4096](https://modelscope.cn/studios/BlinkDL/RWKV-CHN/summary/)
 - [FellouAI/eko](https://github.com/FellouAI/eko)
 - [chatlog](https://github.com/sjzar/chatlog)
 - [scira](https://github.com/zaidmukaddam/scira)
