@@ -141,6 +141,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [NagaAgent](https://github.com/Xxiii8322766509/NagaAgent)
 - [CleanS2S](https://github.com/opendilab/CleanS2S)
 - [NarratorAI](https://github.com/Narrator-AI/NarratorAI)
 - [openvino_tonypi](https://github.com/TommyZihao/openvino_tonypi)
