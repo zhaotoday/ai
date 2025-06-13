@@ -20,6 +20,7 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 产品
+- [划水 AI](https://www.huashuiai.com/)
 - [stitch](https://stitch.withgoogle.com/)
 - [fellou](https://fellou.ai/)
 - [onlook](https://onlook.com/)
