@@ -1,4 +1,5 @@
 #### 文档
+- [大模型微调与部署指南](https://wuduoyi.com/llm-finetune/)
 - [Prompt Engineering 第一站](https://xiangyangqiaomu.feishu.cn/wiki/UWHzw21zZirBYXkok46cTXMpnuc)
 - [OpenAI 文档介绍](https://openai.xiniushu.com/)
 - [OpenAI（ChatGPT）](https://openai.apifox.cn/)
