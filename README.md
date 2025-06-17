@@ -346,6 +346,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [普通人也能轻松掌握的20个DeepSeek高频提示词（2025版）](https://juejin.cn/post/7469989253793415168)
 - [全网最全DeepSeek资源合集，系统性学习看这篇就够了](https://juejin.cn/post/7470460531859111990)
 - [AIGC : 真的要失业了 , 让 ControlNet 带来一点小震撼](https://juejin.cn/post/7385776238492991525)
 - [还在配置规则文件和智能体？Roo Commander：预置90+领域专家，开箱即用的AI编程新体验](https://juejin.cn/post/7511537268684505114)
