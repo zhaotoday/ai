@@ -81,6 +81,7 @@
 - [360 AI 导航](https://ai.hao.360.com/)
 
 #### 平台
+- [WildCard 野卡](https://yeka.ai/)
 - [requesty](https://requesty.ai/)
 - [openrouter](https://openrouter.ai/)
 - [Bulu AI](https://www.buluai.cn/home/index)
