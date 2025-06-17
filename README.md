@@ -145,6 +145,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
 - [PandaWiki](https://github.com/chaitin/PandaWiki)
 - [auto-video-generateor](https://github.com/kuangdd2024/auto-video-generateor)
 - [LivePortrait](https://github.com/KwaiVGI/LivePortrait)
