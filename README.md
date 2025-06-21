@@ -147,6 +147,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [LTX-Video](https://github.com/Lightricks/LTX-Video)
 - [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover)
 - [Zonos](https://github.com/Zyphra/Zonos)
 - [AI-YinMei](https://github.com/worm128/AI-YinMei)
