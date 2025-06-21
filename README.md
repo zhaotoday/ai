@@ -355,6 +355,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [不是吧？现在还有人手动去抄网站页面？这3个工具10分钟像素级复制一个网站](https://juejin.cn/post/7515696371652640778)
 - [轻量级语音模型Vui开源，支持本地部署，笑声停顿全拟真，4万小时练出人类对话感！](https://juejin.cn/post/7514263201668825122)
 - [普通人也能轻松掌握的20个DeepSeek高频提示词（2025版）](https://juejin.cn/post/7469989253793415168)
 - [全网最全DeepSeek资源合集，系统性学习看这篇就够了](https://juejin.cn/post/7470460531859111990)
