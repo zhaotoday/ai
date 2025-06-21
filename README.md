@@ -21,6 +21,7 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 产品
+- [same](https://same.new/)
 - [copyweb](https://copyweb.ai/)
 - [sourceful](https://www.sourceful.com/)
 - [deepwiki](https://deepwiki.com/)
