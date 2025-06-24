@@ -151,6 +151,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [tabby](https://github.com/TabbyML/tabby)
 - [LTX-Video](https://github.com/Lightricks/LTX-Video)
 - [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover)
 - [Zonos](https://github.com/Zyphra/Zonos)
