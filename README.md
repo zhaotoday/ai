@@ -151,6 +151,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [inference](https://github.com/xorbitsai/inference)
 - [Flowise](https://github.com/FlowiseAI/Flowise)
 - [tabby](https://github.com/TabbyML/tabby)
 - [LTX-Video](https://github.com/Lightricks/LTX-Video)
