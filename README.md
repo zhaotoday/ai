@@ -365,6 +365,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [一起深入了解下：这个GitHub 8W+的开源AI 工作流自动化项目为什么这么火！](https://zhuanlan.zhihu.com/p/1896243195937019270)
 - [AI入门启航：看见知识库的运行原理](https://juejin.cn/post/7518388957789536290)
 - [2025最全GPT-4o图像生成API指南：官方接口配置+15个实用提示词【保姆级教程】](https://juejin.cn/post/7488922553565265970)
 - [不是吧？现在还有人手动去抄网站页面？这3个工具10分钟像素级复制一个网站](https://juejin.cn/post/7515696371652640778)
