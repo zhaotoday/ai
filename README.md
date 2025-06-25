@@ -152,6 +152,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [frigate](https://github.com/blakeblackshear/frigate)
 - [gc-qa-rag](https://github.com/GrapeCity-AI/gc-qa-rag)
 - [inference](https://github.com/xorbitsai/inference)
 - [Flowise](https://github.com/FlowiseAI/Flowise)
