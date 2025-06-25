@@ -151,6 +151,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [gc-qa-rag](https://github.com/GrapeCity-AI/gc-qa-rag)
 - [inference](https://github.com/xorbitsai/inference)
 - [Flowise](https://github.com/FlowiseAI/Flowise)
 - [tabby](https://github.com/TabbyML/tabby)
