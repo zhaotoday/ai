@@ -152,6 +152,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [torchchat](https://github.com/pytorch/torchchat)
 - [seek-tune](https://github.com/cgzirim/seek-tune)
 - [frigate](https://github.com/blakeblackshear/frigate)
 - [gc-qa-rag](https://github.com/GrapeCity-AI/gc-qa-rag)
