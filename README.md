@@ -21,6 +21,7 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 产品
+- [opencut](https://opencut.net/)
 - [n8n](https://n8n.io/)
 - [葡萄城AI搜索](https://ai-assist.grapecity.com.cn/)
 - [tooljet](https://www.tooljet.ai/)
