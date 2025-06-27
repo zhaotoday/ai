@@ -158,6 +158,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [evo-chat](https://github.com/evo-family/evo-chat)
 - [Nexior](https://github.com/AceDataCloud/Nexior)
 - [eliza](https://github.com/elizaOS/eliza)
 - [torchchat](https://github.com/pytorch/torchchat)
