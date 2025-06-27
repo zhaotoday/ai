@@ -21,6 +21,7 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 产品
+- [Play AI](https://play.ht/)
 - [acedata](https://platform.acedata.cloud/)
 - [jenius](https://www.jenius.cn/)
 - [opencut](https://opencut.net/)
