@@ -156,6 +156,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [Nexior](https://github.com/AceDataCloud/Nexior)
 - [eliza](https://github.com/elizaOS/eliza)
 - [torchchat](https://github.com/pytorch/torchchat)
 - [seek-tune](https://github.com/cgzirim/seek-tune)
