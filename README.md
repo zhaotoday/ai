@@ -158,6 +158,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [continue](https://github.com/continuedev/continue)
 - [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
 - [evo-chat](https://github.com/evo-family/evo-chat)
 - [Nexior](https://github.com/AceDataCloud/Nexior)
