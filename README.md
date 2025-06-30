@@ -21,6 +21,7 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 产品
+- [爱派](https://www.aipyaipy.com/)
 - [lovable](https://lovable.dev/)
 - [Play AI](https://play.ht/)
 - [acedata](https://platform.acedata.cloud/)
