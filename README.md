@@ -158,6 +158,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [inngest-js](https://github.com/inngest/inngest-js)
 - [aicut](https://github.com/yuedud/aicut)
 - [vosk-api](https://github.com/alphacep/vosk-api)
 - [continue](https://github.com/continuedev/continue)
