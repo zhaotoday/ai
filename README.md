@@ -383,6 +383,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [技术赋能行业变革：跨平台低延迟音视频解决方案](https://juejin.cn/post/7506426611060260902)
 - [🚀使用Readability.js清洗HTML内容，打造RAG高质量数据](https://juejin.cn/post/7469040117710110747)
 - [一起深入了解下：这个GitHub 8W+的开源AI 工作流自动化项目为什么这么火！](https://zhuanlan.zhihu.com/p/1896243195937019270)
 - [AI入门启航：看见知识库的运行原理](https://juejin.cn/post/7518388957789536290)
