@@ -159,6 +159,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [auto-caption](https://github.com/HiMeditator/auto-caption)
 - [KAG](https://github.com/OpenSPG/KAG)
 - [inngest-js](https://github.com/inngest/inngest-js)
 - [aicut](https://github.com/yuedud/aicut)
