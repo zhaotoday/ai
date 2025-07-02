@@ -159,6 +159,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [mindsdb](https://github.com/mindsdb/mindsdb)
 - [wordpress_kefu_ai_agent](https://github.com/liangdabiao/wordpress_kefu_ai_agent)
 - [auto-caption](https://github.com/HiMeditator/auto-caption)
 - [KAG](https://github.com/OpenSPG/KAG)
