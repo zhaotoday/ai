@@ -160,6 +160,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
 - [OmniAvatar](https://github.com/Omni-Avatar/OmniAvatar)
 - [mindsdb](https://github.com/mindsdb/mindsdb)
 - [wordpress_kefu_ai_agent](https://github.com/liangdabiao/wordpress_kefu_ai_agent)
