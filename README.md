@@ -16,6 +16,7 @@
 - [动手学深度学习](https://github.com/d2l-ai/d2l-zh)
 - [鱼皮的 AI 知识库](https://ai.codefather.cn/)
 - [动手学SpringAI](https://github.com/qifan777/dive-into-spring-ai)
+- [大语言模型（LLM）专业术语汇总](https://juejin.cn/post/7522292179420545058)
 
 #### 官网
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
