@@ -1,5 +1,6 @@
 #### 文档
 - [Datawhale人工智能培养方案](https://www.datawhale.cn/learn/summary/40)
+- [人工智能的数学基础](https://github.com/datawhalechina/math-for-ai)
 - [开源大模型食用指南](https://github.com/datawhalechina/self-llm)
 - [从零开始的大语言模型原理与实践教程](https://github.com/datawhalechina/happy-llm)
 - [大模型微调与部署指南](https://wuduoyi.com/llm-finetune/)
