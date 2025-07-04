@@ -1,4 +1,5 @@
 #### 文档
+- [推荐系统入门教程](https://github.com/datawhalechina/fun-rec)
 - [Design with AI](https://github.com/datawhalechina/design-with-ai)
 - [Datawhale人工智能培养方案](https://www.datawhale.cn/learn/summary/40)
 - [AI硬件与机器人技术教程](https://github.com/datawhalechina/ai-hardware-robotics)
