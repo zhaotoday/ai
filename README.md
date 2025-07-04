@@ -1,4 +1,5 @@
 #### 文档
+- [模型压缩的小白入门教程](https://github.com/datawhalechina/awesome-compression)
 - [面向小白开发者的大模型应用开发教程](https://github.com/datawhalechina/llm-universe)
 - [面向开发者的 LLM 入门教程](https://github.com/datawhalechina/llm-cookbook)
 - [李宏毅生成式人工智能教程](https://github.com/datawhalechina/leegenai-tutorial)
