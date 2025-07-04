@@ -1,4 +1,5 @@
 #### 文档
+- [Datawhale人工智能培养方案](https://www.datawhale.cn/learn/summary/40)
 - [从零开始的大语言模型原理与实践教程](https://github.com/datawhalechina/happy-llm)
 - [大模型微调与部署指南](https://wuduoyi.com/llm-finetune/)
 - [Prompt Engineering 第一站](https://xiangyangqiaomu.feishu.cn/wiki/UWHzw21zZirBYXkok46cTXMpnuc)
