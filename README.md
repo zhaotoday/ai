@@ -175,6 +175,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui)
 - [jina-ai/reader](https://github.com/jina-ai/reader)
 - [WrenAI](https://github.com/Canner/WrenAI)
 - [chatgpt-demos](https://github.com/SuYxh/chatgpt-demos)
