@@ -33,6 +33,7 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 产品
+- [jina](https://jina.ai/)
 - [星流](https://www.xingliu.art/)
 - [motia](https://www.motia.dev/)
 - [fellou](https://fellou.ai/)
