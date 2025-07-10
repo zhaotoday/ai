@@ -174,6 +174,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [jina-ai/reader](https://github.com/jina-ai/reader)
 - [WrenAI](https://github.com/Canner/WrenAI)
 - [chatgpt-demos](https://github.com/SuYxh/chatgpt-demos)
 - [Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
