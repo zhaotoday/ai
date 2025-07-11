@@ -177,6 +177,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [PocketFlow-Typescript](https://github.com/The-Pocket/PocketFlow-Typescript)
 - [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 - [CompreFace](https://github.com/exadel-inc/CompreFace)
 - [Business_Idea_Validator](https://github.com/liangdabiao/Business_Idea_Validator)
