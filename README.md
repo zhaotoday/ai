@@ -177,6 +177,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [CompreFace](https://github.com/exadel-inc/CompreFace)
 - [Business_Idea_Validator](https://github.com/liangdabiao/Business_Idea_Validator)
 - [ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui)
 - [jina-ai/reader](https://github.com/jina-ai/reader)
