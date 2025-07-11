@@ -412,6 +412,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [opencv使用matchTemplate做简单的人脸识别](https://blog.csdn.net/asm_yazi/article/details/110633319)
 - [火山引擎TTS实战：从零到一搭建语音交互应用](https://juejin.cn/post/7520549457265082403)
 - [3分钟打造一个无敌的落地页Landing Page - 任何内容都完全自动化](https://juejin.cn/post/7524554794952392744)
 - [如何拥有一个无限制、可联网、带本地知识库的私人 DeepSeek？](https://juejin.cn/post/7469390430532403226)
