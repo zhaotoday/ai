@@ -45,6 +45,7 @@
 - [Play AI](https://play.ht/)
 - [acedata](https://platform.acedata.cloud/)
 - [jenius](https://www.jenius.cn/)
+- [OpenCut](https://github.com/OpenCut-app/OpenCut)
 - [opencut](https://opencut.net/)
 - [n8n](https://n8n.io/)
 - [葡萄城AI搜索](https://ai-assist.grapecity.com.cn/)
