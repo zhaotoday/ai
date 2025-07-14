@@ -182,6 +182,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [jan](https://github.com/menloresearch/jan)
 - [telegram-search](https://github.com/groupultra/telegram-search)
 - [AIDesign-Guidelines](https://github.com/Id8fun/AIDesign-Guidelines)
 - [PocketFlow-Typescript](https://github.com/The-Pocket/PocketFlow-Typescript)
