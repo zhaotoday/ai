@@ -34,6 +34,7 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 产品
+- [腾讯朱雀AI文本检测](https://matrix.tencent.com/ai-detect/)
 - [zapier](https://zapier.com/)
 - [百度智能云千帆 AppBuilder](https://console.bce.baidu.com/ai_apaas/mcpServerCenter)
 - [AI Meme Generator](https://www.makememe.net/)
