@@ -34,6 +34,7 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 产品
+- [youtube-dubbing](https://www.youtube-dubbing.com/zh/)
 - [transduck](https://transduck.com/zh/)
 - [roboneo](https://www.roboneo.com/home)
 - [腾讯朱雀AI文本检测](https://matrix.tencent.com/ai-detect/)
