@@ -421,6 +421,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [AI很方便，不过我还是建议学点Mermaid基础](https://juejin.cn/post/7525889354159194131)
 - [opencv使用matchTemplate做简单的人脸识别](https://blog.csdn.net/asm_yazi/article/details/110633319)
 - [火山引擎TTS实战：从零到一搭建语音交互应用](https://juejin.cn/post/7520549457265082403)
 - [3分钟打造一个无敌的落地页Landing Page - 任何内容都完全自动化](https://juejin.cn/post/7524554794952392744)
