@@ -186,6 +186,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
 - [whisper](https://openai.com/zh-Hans-CN/index/whisper/)
 - [jan](https://github.com/menloresearch/jan)
 - [telegram-search](https://github.com/groupultra/telegram-search)
