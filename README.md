@@ -425,6 +425,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [躺赚必备！RPA+Coze+豆包：公众号自动发文，AI率0%亲测有效（附AI率0%提示词）](https://juejin.cn/post/7523119147435507727)
 - [AI 翻译外语视频并配上中文字幕](https://juejin.cn/post/7459029441039745059)
 - [1 分钟生成架构图？程序员 AI 绘图保姆级教程](https://juejin.cn/post/7510843732821327872)
 - [AI很方便，不过我还是建议学点Mermaid基础](https://juejin.cn/post/7525889354159194131)
