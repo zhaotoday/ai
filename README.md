@@ -186,6 +186,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [FunASR](https://github.com/modelscope/FunASR)
 - [CloudBase-AI-ToolKit](https://github.com/TencentCloudBase/CloudBase-AI-ToolKit)
 - [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
 - [whisper](https://openai.com/zh-Hans-CN/index/whisper/)
