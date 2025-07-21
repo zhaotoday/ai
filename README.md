@@ -428,6 +428,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [回答准确率从60%飙至95%！AI知识库救命方案](https://juejin.cn/post/7527683190645522467)
 - [又一款国产AI音乐工具！字节跳动又进军AI音乐了，这是要干掉Suno呀...](https://juejin.cn/post/7398480670445600831)
 - [Prompt 工程实用技巧：掌握高效 AI 交互核心](https://juejin.cn/post/7516728651979898917)
 - [躺赚必备！RPA+Coze+豆包：公众号自动发文，AI率0%亲测有效（附AI率0%提示词）](https://juejin.cn/post/7523119147435507727)
