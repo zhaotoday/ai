@@ -4,3 +4,4 @@
 #### 开源
 - [gc-qa-rag](https://github.com/GrapeCity-AI/gc-qa-rag)
 - [migpt-next](https://github.com/idootop/migpt-next)
+- [open-xiaoai](https://github.com/idootop/open-xiaoai)
