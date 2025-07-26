@@ -1,4 +1,5 @@
 #### 文档
+- [大语言模型](https://github.com/LLMBook-zh/LLMBook-zh.github.io)
 - [私房AI黑话和词汇表](https://juejin.cn/post/7391704406327099446)
 - [模型压缩的小白入门教程](https://github.com/datawhalechina/awesome-compression)
 - [面向小白开发者的大模型应用开发教程](https://github.com/datawhalechina/llm-universe)
