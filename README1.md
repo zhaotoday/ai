@@ -1,4 +1,5 @@
 #### 产品
+- [xinference](https://xinference.io/zh)
 - [百宝箱](https://www.tbox.cn/about)
 
 #### 开源
