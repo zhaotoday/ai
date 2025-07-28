@@ -3,6 +3,7 @@
 - [百宝箱](https://www.tbox.cn/about)
 
 #### 开源
+- [openjourney](https://github.com/ammaarreshi/openjourney)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 - [ai-video-effects-collections](https://github.com/husu/ai-video-effects-collections)
 - [gc-qa-rag](https://github.com/GrapeCity-AI/gc-qa-rag)
