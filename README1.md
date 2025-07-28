@@ -8,5 +8,6 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [AI应用与教育行业](https://juejin.cn/post/7531039727782527026)
 - [降维打击！Mistral Voxtral：开源语音的“终结者”已上线！](https://juejin.cn/post/7529427029029552174)
 - [怎么通俗易懂地理解AI大模型微调？一篇大白话文章解释模型微调！](https://juejin.cn/post/7516933290642669605)
