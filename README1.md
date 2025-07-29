@@ -3,6 +3,7 @@
 - [百宝箱](https://www.tbox.cn/about)
 
 #### 开源
+- [LiYing](https://github.com/aoguai/LiYing)
 - [fogsight](https://github.com/fogsightai/fogsight)
 - [openjourney](https://github.com/ammaarreshi/openjourney)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
