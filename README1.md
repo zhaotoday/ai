@@ -3,6 +3,7 @@
 - [百宝箱](https://www.tbox.cn/about)
 
 #### 开源
+- [DocsGPT](https://github.com/arc53/DocsGPT)
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
 - [LiYing](https://github.com/aoguai/LiYing)
 - [fogsight](https://github.com/fogsightai/fogsight)
