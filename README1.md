@@ -16,6 +16,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [为什么说 AI 时代，前端开发者对前端工程化的要求更高了❓❓❓](https://juejin.cn/post/7506414257401004071)
 - [从文本到逼真语音：Coqui TTS带你迈入AI配音新时代](https://juejin.cn/post/7483435518525964322)
 - [AI应用与教育行业](https://juejin.cn/post/7531039727782527026)
 - [降维打击！Mistral Voxtral：开源语音的“终结者”已上线！](https://juejin.cn/post/7529427029029552174)
