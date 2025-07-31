@@ -1,4 +1,5 @@
 #### 产品
+- [AI Reading Hub](https://www.aireadinghub.com/)
 - [wavespeed](https://wavespeed.ai/)
 - [AI 市场](https://aim.baidu.com/)
 - [ColaOnlineCoder](https://luckycola.com.cn/public/dist/onlineCodeEditor.html#/)
