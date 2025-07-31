@@ -7,6 +7,7 @@
 - [百宝箱](https://www.tbox.cn/about)
 
 #### API 聚合
+- [openrouter](https://openrouter.ai/)
 - [cometapi](https://www.cometapi.com/)
 - [智创聚合 API](https://api.lconai.com/)
 
