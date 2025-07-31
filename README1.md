@@ -8,6 +8,7 @@
 - [百宝箱](https://www.tbox.cn/about)
 
 #### API 聚合
+- [302 AI](https://302.ai/)
 - [openrouter](https://openrouter.ai/)
 - [cometapi](https://www.cometapi.com/)
 - [JuheNext](https://www.juhenext.com/zh/)
