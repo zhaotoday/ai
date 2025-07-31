@@ -7,6 +7,7 @@
 
 #### API 聚合
 - [cometapi](https://www.cometapi.com/)
+- [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
 - [DocsGPT](https://github.com/arc53/DocsGPT)
