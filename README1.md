@@ -1,4 +1,5 @@
 #### 产品
+- [AI 市场](https://aim.baidu.com/)
 - [ColaOnlineCoder](https://luckycola.com.cn/public/dist/onlineCodeEditor.html#/)
 - [deepsite](https://enzostvs-deepsite.hf.space/projects/new)
 - [AI Gist](https://getaigist.com/)
