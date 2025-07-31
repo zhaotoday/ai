@@ -5,6 +5,9 @@
 - [xinference](https://xinference.io/zh)
 - [百宝箱](https://www.tbox.cn/about)
 
+#### API 聚合
+- [cometapi](https://www.cometapi.com/)
+
 #### 开源
 - [DocsGPT](https://github.com/arc53/DocsGPT)
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
