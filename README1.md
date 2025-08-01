@@ -18,6 +18,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [Gemini Balance](https://gb-docs.snaily.top/)
 - [DocsGPT](https://github.com/arc53/DocsGPT)
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
 - [LiYing](https://github.com/aoguai/LiYing)
