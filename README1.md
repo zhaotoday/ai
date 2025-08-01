@@ -1,4 +1,5 @@
 #### 产品
+- [napkin](https://www.napkin.ai/)
 - [AI Reading Hub](https://www.aireadinghub.com/)
 - [wavespeed](https://wavespeed.ai/)
 - [AI 市场](https://aim.baidu.com/)
