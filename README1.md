@@ -1,4 +1,5 @@
 #### 产品
+- [usewhisper](https://www.usewhisper.io/)
 - [tavily](https://www.tavily.com/)
 - [napkin](https://www.napkin.ai/)
 - [AI Reading Hub](https://www.aireadinghub.com/)
@@ -13,6 +14,7 @@
 #### API 聚合
 - [302 AI](https://302.ai/)
 - [openrouter](https://openrouter.ai/)
+- [together.ai](https://www.together.ai/)
 - [cometapi](https://www.cometapi.com/)
 - [JuheNext](https://www.juhenext.com/zh/)
 - [智创聚合 API](https://api.lconai.com/)
