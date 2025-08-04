@@ -1,4 +1,5 @@
 #### 产品
+- [dyad](https://www.dyad.sh/)
 - [httpie](https://httpie.io/)
 - [usewhisper](https://www.usewhisper.io/)
 - [tavily](https://www.tavily.com/)
