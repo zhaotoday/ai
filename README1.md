@@ -20,6 +20,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [notebookllama](https://github.com/run-llama/notebookllama)
 - [MM_StoryAgent](https://github.com/X-PLUG/MM_StoryAgent)
 - [Gemini Balance](https://gb-docs.snaily.top/)
 - [DocsGPT](https://github.com/arc53/DocsGPT)
