@@ -20,6 +20,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [MM_StoryAgent](https://github.com/X-PLUG/MM_StoryAgent)
 - [Gemini Balance](https://gb-docs.snaily.top/)
 - [DocsGPT](https://github.com/arc53/DocsGPT)
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
