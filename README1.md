@@ -33,6 +33,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [闲谈 ：AI 生成视频哪家强 ，掘友们有没有推荐的工具？](https://juejin.cn/post/7533861390501314612)
 - [AI 应用开发入门：前端也可以学习 AI](https://juejin.cn/post/7517197769247391756)
 - [WaveSpeedAI是世界上第一个接Wan 2.2 API的平台](https://juejin.cn/post/7532052368977838134)
 - [为什么说 AI 时代，前端开发者对前端工程化的要求更高了❓❓❓](https://juejin.cn/post/7506414257401004071)
