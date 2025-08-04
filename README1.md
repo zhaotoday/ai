@@ -1,4 +1,5 @@
 #### 产品
+- [httpie](https://httpie.io/)
 - [usewhisper](https://www.usewhisper.io/)
 - [tavily](https://www.tavily.com/)
 - [napkin](https://www.napkin.ai/)
