@@ -24,6 +24,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [kirara-ai](https://github.com/lss233/kirara-ai)
 - [Qwen-Image](https://github.com/QwenLM/Qwen-Image)
 - [notebookllama](https://github.com/run-llama/notebookllama)
 - [MM_StoryAgent](https://github.com/X-PLUG/MM_StoryAgent)
