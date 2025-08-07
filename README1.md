@@ -40,6 +40,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [FireRedASR：精准识别普通话、方言和歌曲歌词！小红书开源工业级自动语音识别模型](https://juejin.cn/post/7469670270124785700)
 - [开源语音识别引擎的比较与评估](https://juejin.cn/post/7452163912777564201)
 - [闲谈 ：AI 生成视频哪家强 ，掘友们有没有推荐的工具？](https://juejin.cn/post/7533861390501314612)
 - [AI 应用开发入门：前端也可以学习 AI](https://juejin.cn/post/7517197769247391756)
