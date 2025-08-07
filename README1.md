@@ -41,6 +41,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [💡2025年AI架构趋势：深度解析AI智能体架构设计的九大核心技术](https://juejin.cn/post/7534337449906372642)
 - [语音对话项目进阶，接入百度语音技术](https://juejin.cn/post/7408462655943376907)
 - [FireRedASR：精准识别普通话、方言和歌曲歌词！小红书开源工业级自动语音识别模型](https://juejin.cn/post/7469670270124785700)
 - [开源语音识别引擎的比较与评估](https://juejin.cn/post/7452163912777564201)
