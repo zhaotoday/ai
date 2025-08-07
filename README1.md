@@ -24,6 +24,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [awesome-code-agents](https://github.com/sorrycc/awesome-code-agents)
 - [magic-animate](https://github.com/magic-research/magic-animate)
 - [kirara-ai](https://github.com/lss233/kirara-ai)
 - [Qwen-Image](https://github.com/QwenLM/Qwen-Image)
