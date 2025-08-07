@@ -23,6 +23,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [Qwen-Image](https://github.com/QwenLM/Qwen-Image)
 - [notebookllama](https://github.com/run-llama/notebookllama)
 - [MM_StoryAgent](https://github.com/X-PLUG/MM_StoryAgent)
 - [Gemini Balance](https://gb-docs.snaily.top/)
