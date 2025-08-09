@@ -24,6 +24,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [claude-code-security-review](https://github.com/anthropics/claude-code-security-review)
 - [open-swe](https://github.com/langchain-ai/open-swe)
 - [awesome-code-agents](https://github.com/sorrycc/awesome-code-agents)
 - [magic-animate](https://github.com/magic-research/magic-animate)
