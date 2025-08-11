@@ -25,6 +25,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [replicate](https://replicate.com/docs/get-started/nodejs)
 - [gradio](https://www.gradio.app/docs/js-client)
 - [cobolt](https://github.com/platinum-hill/cobolt)
 - [DreamScene](https://github.com/DreamScene-Project/DreamScene)
