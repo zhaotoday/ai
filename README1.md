@@ -25,6 +25,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [gradio](https://www.gradio.app/docs/js-client)
 - [cobolt](https://github.com/platinum-hill/cobolt)
 - [DreamScene](https://github.com/DreamScene-Project/DreamScene)
 - [claude-code-security-review](https://github.com/anthropics/claude-code-security-review)
