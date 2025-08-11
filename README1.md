@@ -51,6 +51,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [一文带你上手 AI Agent 编程](https://juejin.cn/post/7529101019687567403)
 - [🔥 2025 年开发者必试的 10 款 AI 工具 🚀](https://juejin.cn/post/7534661634238365705)
 - [【应用搭建】🎯使用本地部署大模型打造个人语音助手](https://juejin.cn/post/7478412386152710178)
 - [Hailuo Videos Generation API 对接说明](https://juejin.cn/post/7535294784216498219)
