@@ -26,6 +26,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [open-lovable](https://github.com/mendableai/open-lovable)
 - [gpt-load](https://github.com/tbphp/gpt-load)
 - [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch)
 - [chroma](https://www.trychroma.com/)
