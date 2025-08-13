@@ -26,6 +26,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [gpt-load](https://github.com/tbphp/gpt-load)
 - [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch)
 - [chroma](https://www.trychroma.com/)
 - [replicate](https://replicate.com/docs/get-started/nodejs)
