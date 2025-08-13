@@ -25,6 +25,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch)
 - [chroma](https://www.trychroma.com/)
 - [replicate](https://replicate.com/docs/get-started/nodejs)
 - [gradio](https://www.gradio.app/docs/js-client)
