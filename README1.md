@@ -26,6 +26,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [AI 生成前端项目的 bolt.new 是怎么做到的？](https://juejin.cn/post/7438916462751088650)
 - [open-lovable](https://github.com/mendableai/open-lovable)
 - [gpt-load](https://github.com/tbphp/gpt-load)
 - [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch)
