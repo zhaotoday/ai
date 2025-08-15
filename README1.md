@@ -59,6 +59,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [2025 AI 工具导航｜牛马必备资源宝典](https://juejin.cn/post/7474112942415675432)
 - [10个几乎能替代一整个开发团队的AI工具，你信吗？](https://juejin.cn/post/7491945618916900904)
 - [让trae、kiro、kimi k2等15个AI工具基于相同提示词做一个页面，看看谁牛逼谁拉跨](https://juejin.cn/post/7530105395282296870)
 - [一文带你上手 AI Agent 编程](https://juejin.cn/post/7529101019687567403)
