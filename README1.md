@@ -1,4 +1,5 @@
 #### 产品
+- [suno](https://suno.com/home)
 - [原牛](https://mihoyonb.com/)
 - [vheer](https://www.vheer.com/)
 - [ChatGPT Plus 代充系统](https://chatgpt.com.kg/)
