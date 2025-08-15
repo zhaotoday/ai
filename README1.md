@@ -1,4 +1,5 @@
 #### 产品
+- [askmanyai](https://askmanyai.cn/login)
 - [suno](https://suno.com/home)
 - [原牛](https://mihoyonb.com/)
 - [vheer](https://www.vheer.com/)
