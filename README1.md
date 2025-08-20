@@ -35,6 +35,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [airi](https://github.com/moeru-ai/airi)
 - [index-tts](https://github.com/index-tts/index-tts)
 - [BrowserAI](https://github.com/sauravpanda/BrowserAI)
 - [olmocr](https://github.com/allenai/olmocr)
