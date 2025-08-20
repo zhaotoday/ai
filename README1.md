@@ -32,6 +32,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [BrowserAI](https://github.com/sauravpanda/BrowserAI)
 - [olmocr](https://github.com/allenai/olmocr)
 - [LangGPT](https://github.com/langgptai/LangGPT)
 - [aisuite](https://github.com/andrewyng/aisuite)
