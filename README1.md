@@ -28,6 +28,7 @@
 
 #### API 聚合
 - [302 AI](https://302.ai/)
+- [aionly](https://www.aiionly.com/)
 - [openrouter](https://openrouter.ai/)
 - [together.ai](https://www.together.ai/)
 - [cometapi](https://www.cometapi.com/)
