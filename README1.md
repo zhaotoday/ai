@@ -74,6 +74,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [我的AI自学路线，可能对你有用](https://juejin.cn/post/7540170460941172787)
 - [发现一款宝藏工具：Shots.so，几秒钟做出高级感 Mockup](https://juejin.cn/post/7540133697468284938)
 - [走进AI（1）：细说RAG、MCP、Agent、Function Call](https://juejin.cn/post/7533503751006535680)
 - [做PPT、改图、带团队，这个协作工具干掉了我常用的4个软件｜AI导航猿](https://juejin.cn/post/7536139219472498728)
