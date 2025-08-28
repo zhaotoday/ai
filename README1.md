@@ -37,6 +37,8 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [growchief](https://github.com/growchief/growchief)
+- [postiz-app](https://github.com/gitroomhq/postiz-app)
 - [agno](https://github.com/agno-agi/agno)
 - [airi](https://github.com/moeru-ai/airi)
 - [index-tts](https://github.com/index-tts/index-tts)
