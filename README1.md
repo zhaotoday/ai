@@ -37,6 +37,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
 - [growchief](https://github.com/growchief/growchief)
 - [postiz-app](https://github.com/gitroomhq/postiz-app)
 - [agno](https://github.com/agno-agi/agno)
