@@ -1,4 +1,5 @@
 #### 产品
+- [deepsider](https://www.deepsider.ai/)
 - [flowith](https://flowith.io/)
 - [sim](https://www.sim.ai/)
 - [BrowserOS](https://www.browseros.com/)
