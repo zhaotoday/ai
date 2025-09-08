@@ -1,5 +1,6 @@
 #### 教程
 - [2025-人工智能导论课程仓库](https://github.com/sherlock-0327/ITAI-2025)
+- [人工智能培训课件资源](https://github.com/git-cloner/ai-course)
 
 #### 产品
 - [deepsider](https://www.deepsider.ai/)
