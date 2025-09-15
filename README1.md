@@ -43,6 +43,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [AI-Gist](https://github.com/yarin-zhang/AI-Gist)
 - [Customer-Agent](https://github.com/JC0v0/Customer-Agent)
 - [agentscope](https://github.com/agentscope-ai/agentscope)
 - [WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
