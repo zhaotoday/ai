@@ -88,6 +88,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [使用 Nano-banana 完成全套 IP 制作提示词体系🧣](https://juejin.cn/post/7550478948133519411)
 - [揭秘语音交互的核心技术](https://juejin.cn/post/7548067408970121267)
 - [Awesome Nano Banana！迄今最强生图模型的28个玩法合集](https://juejin.cn/post/7543509106608226356)
 - [我的AI自学路线，可能对你有用](https://juejin.cn/post/7540170460941172787)
