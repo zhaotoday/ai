@@ -43,6 +43,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [himarket](https://github.com/higress-group/himarket)
 - [magentic-ui](https://github.com/microsoft/magentic-ui)
 - [LazyLLM](https://github.com/LazyAGI/LazyLLM)
 - [lazyeat](https://github.com/lanxiuyun/lazyeat)
