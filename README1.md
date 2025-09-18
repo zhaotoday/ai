@@ -43,6 +43,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [magentic-ui](https://github.com/microsoft/magentic-ui)
 - [LazyLLM](https://github.com/LazyAGI/LazyLLM)
 - [lazyeat](https://github.com/lanxiuyun/lazyeat)
 - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
