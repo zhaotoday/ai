@@ -43,6 +43,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [lazyeat](https://github.com/lanxiuyun/lazyeat)
 - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
 - [AI-Gist](https://github.com/yarin-zhang/AI-Gist)
 - [Customer-Agent](https://github.com/JC0v0/Customer-Agent)
