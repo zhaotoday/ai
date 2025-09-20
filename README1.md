@@ -43,6 +43,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [ag-ui](https://github.com/ag-ui-protocol/ag-ui)
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit)
 - [himarket](https://github.com/higress-group/himarket)
 - [magentic-ui](https://github.com/microsoft/magentic-ui)
