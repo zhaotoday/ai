@@ -43,6 +43,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [WeKnora](https://github.com/Tencent/WeKnora)
 - [FastbuildAI](https://github.com/FastbuildAI/FastbuildAI)
 - [ag-ui](https://github.com/ag-ui-protocol/ag-ui)
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit)
