@@ -45,6 +45,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [ququ](https://github.com/yan5xu/ququ)
 - [Wan2.2](https://github.com/Wan-Video/Wan2.2)
 - [WeKnora](https://github.com/Tencent/WeKnora)
 - [FastbuildAI](https://github.com/FastbuildAI/FastbuildAI)
