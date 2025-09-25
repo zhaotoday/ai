@@ -3,6 +3,7 @@
 - [人工智能培训课件资源](https://github.com/git-cloner/ai-course)
 
 #### 产品
+- [Latent Box](https://latentbox.com/zh)
 - [neuxnet](https://www.neuxnet.com/)
 - [iflow](https://iflow.cn/)
 - [monday](https://monday.com/)
