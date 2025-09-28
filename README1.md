@@ -3,6 +3,7 @@
 - [人工智能培训课件资源](https://github.com/git-cloner/ai-course)
 
 #### 产品
+- [nanobanana](https://nanobanana.ai/zh)
 - [seedance](https://www.seedance.studio/zh)
 - [seedream](https://www.volcengine.com/experience/ark?launch=seedream)
 - [Latent Box](https://latentbox.com/zh)
