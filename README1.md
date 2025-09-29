@@ -50,6 +50,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [ANUS](https://github.com/anus-dev/ANUS)
 - [VibeVoice](https://github.com/microsoft/VibeVoice)
 - [Rope](https://github.com/Hillobar/Rope)
 - [LaWGPT](https://github.com/pengxiao-song/LaWGPT)
