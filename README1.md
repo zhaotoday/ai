@@ -49,6 +49,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [VibeVoice](https://github.com/microsoft/VibeVoice)
 - [Rope](https://github.com/Hillobar/Rope)
 - [LaWGPT](https://github.com/pengxiao-song/LaWGPT)
 - [ququ](https://github.com/yan5xu/ququ)
