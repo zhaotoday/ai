@@ -50,6 +50,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 
 #### 开源
+- [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
 - [gensx](https://github.com/gensx-inc/gensx)
 - [reddit-ai-trends](https://github.com/liyedanpdx/reddit-ai-trends)
 - [ANUS](https://github.com/anus-dev/ANUS)
