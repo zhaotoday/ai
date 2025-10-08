@@ -49,6 +49,9 @@
 - [JuheNext](https://www.juhenext.com/zh/)
 - [智创聚合 API](https://api.lconai.com/)
 
+#### UI 库
+- [elevenlabs](https://ui.elevenlabs.io/)
+
 #### 开源
 - [TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
 - [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
