@@ -55,6 +55,7 @@
 - [elevenlabs](https://ui.elevenlabs.io/)
 
 #### 开源
+- [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio)
 - [EasyControl](https://github.com/Xiaojiu-z/EasyControl)
 - [TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
 - [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
