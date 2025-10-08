@@ -3,6 +3,7 @@
 - [人工智能培训课件资源](https://github.com/git-cloner/ai-course)
 
 #### 产品
+- [live-agent](https://www.live-agent.cn/)
 - [讯飞智作](https://peiyin.xunfei.cn/)
 - [tunee](https://www.tunee.ai/zh-CN/home)
 - [nanobanana](https://nanobanana.ai/zh)
