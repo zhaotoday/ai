@@ -53,6 +53,7 @@
 - [elevenlabs](https://ui.elevenlabs.io/)
 
 #### 开源
+- [EasyControl](https://github.com/Xiaojiu-z/EasyControl)
 - [TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
 - [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
 - [gensx](https://github.com/gensx-inc/gensx)
