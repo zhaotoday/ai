@@ -55,6 +55,7 @@
 - [elevenlabs](https://ui.elevenlabs.io/)
 
 #### 开源
+- [LibreTTS](https://github.com/LibreSpark/LibreTTS)
 - [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples)
 - [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio)
 - [EasyControl](https://github.com/Xiaojiu-z/EasyControl)
