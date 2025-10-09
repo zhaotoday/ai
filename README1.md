@@ -122,6 +122,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [🎙️ 站在巨人肩膀上：基于 SenseVoice.cpp 的前端语音识别实践](https://juejin.cn/post/7549520827354185767)
 - [AI 应用前端开发技能库 - realtime 实时聊天 & Web Audio](https://juejin.cn/post/7444382893469974578)
 - [OpenArt Story 一键生成完整叙事短视频](https://juejin.cn/post/7527502344725102592)
 - [使用 Nano-banana 完成全套 IP 制作提示词体系🧣](https://juejin.cn/post/7550478948133519411)
