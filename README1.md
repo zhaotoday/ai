@@ -56,6 +56,7 @@
 - [elevenlabs](https://ui.elevenlabs.io/)
 
 #### 开源
+- [MiMo-Audio](https://github.com/XiaomiMiMo/MiMo-Audio)
 - [SenseVoice.cpp](https://github.com/lovemefan/SenseVoice.cpp)
 - [SenseVoice](https://github.com/FunAudioLLM/SenseVoice)
 - [LibreTTS](https://github.com/LibreSpark/LibreTTS)
