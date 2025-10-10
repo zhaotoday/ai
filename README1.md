@@ -56,6 +56,7 @@
 - [elevenlabs](https://ui.elevenlabs.io/)
 
 #### 开源
+- [SenseVoice.cpp](https://github.com/lovemefan/SenseVoice.cpp)
 - [SenseVoice](https://github.com/FunAudioLLM/SenseVoice)
 - [LibreTTS](https://github.com/LibreSpark/LibreTTS)
 - [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples)
