@@ -125,6 +125,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [2025最好用的10大AI工具，强烈建议收藏！](https://juejin.cn/post/7479990909834592267)
 - [🎙️ 站在巨人肩膀上：基于 SenseVoice.cpp 的前端语音识别实践](https://juejin.cn/post/7549520827354185767)
 - [AI 应用前端开发技能库 - realtime 实时聊天 & Web Audio](https://juejin.cn/post/7444382893469974578)
 - [OpenArt Story 一键生成完整叙事短视频](https://juejin.cn/post/7527502344725102592)
