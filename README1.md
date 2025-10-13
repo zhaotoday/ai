@@ -3,6 +3,7 @@
 - [人工智能培训课件资源](https://github.com/git-cloner/ai-course)
 
 #### 产品
+- [NiceAIGC](https://183ai.com/)
 - [univer](https://univer.ai/)
 - [live-agent](https://www.live-agent.cn/)
 - [讯飞智作](https://peiyin.xunfei.cn/)
