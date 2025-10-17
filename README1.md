@@ -59,6 +59,7 @@
 - [elevenlabs](https://ui.elevenlabs.io/)
 
 #### 开源
+- [bytebot](https://www.zdoc.app/zh/bytebot-ai/bytebot)
 - [nanochat](https://github.com/karpathy/nanochat)
 - [MiMo-Audio](https://github.com/XiaomiMiMo/MiMo-Audio)
 - [SenseVoice.cpp](https://github.com/lovemefan/SenseVoice.cpp)
