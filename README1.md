@@ -57,6 +57,7 @@
 - [elevenlabs](https://ui.elevenlabs.io/)
 
 #### 开源
+- [nanochat](https://github.com/karpathy/nanochat)
 - [MiMo-Audio](https://github.com/XiaomiMiMo/MiMo-Audio)
 - [SenseVoice.cpp](https://github.com/lovemefan/SenseVoice.cpp)
 - [SenseVoice](https://github.com/FunAudioLLM/SenseVoice)
