@@ -55,6 +55,7 @@
 - [cometapi](https://www.cometapi.com/)
 - [JuheNext](https://www.juhenext.com/zh/)
 - [智创聚合 API](https://api.lconai.com/)
+- [AI/ML API](https://aimlapi.com/)
 
 #### UI 库
 - [elevenlabs](https://ui.elevenlabs.io/)
