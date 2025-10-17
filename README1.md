@@ -59,6 +59,7 @@
 - [elevenlabs](https://ui.elevenlabs.io/)
 
 #### 开源
+- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 - [genkit](https://github.com/firebase/genkit)
 - [bytebot](https://www.zdoc.app/zh/bytebot-ai/bytebot)
 - [nanochat](https://github.com/karpathy/nanochat)
