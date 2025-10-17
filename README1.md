@@ -3,6 +3,7 @@
 - [人工智能培训课件资源](https://github.com/git-cloner/ai-course)
 
 #### 产品
+- [百灵大模型](https://ling.tbox.cn/chat)
 - [codecrack](https://www.codecrack.cn/)
 - [NiceAIGC](https://183ai.com/)
 - [univer](https://univer.ai/)
