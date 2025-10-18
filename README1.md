@@ -3,6 +3,7 @@
 - [人工智能培训课件资源](https://github.com/git-cloner/ai-course)
 
 #### 产品
+- [ai-sdk](https://ai-sdk.dev/)
 - [flycut](https://caption.flycut.co/zh)
 - [mindmapwizard](https://mindmapwizard.com/)
 - [frontend-ai](https://app.webcrumbs.ai/frontend-ai/)
