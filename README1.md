@@ -3,6 +3,7 @@
 - [人工智能培训课件资源](https://github.com/git-cloner/ai-course)
 
 #### 产品
+- [可灵 AI](https://app.klingai.com/cn/)
 - [weknora](https://weknora.weixin.qq.com/)
 - [chatexcel](https://chatexcel.com/)
 - [ai-sdk](https://ai-sdk.dev/)
