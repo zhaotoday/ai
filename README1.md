@@ -3,6 +3,7 @@
 - [人工智能培训课件资源](https://github.com/git-cloner/ai-course)
 
 #### 产品
+- [runninghub](https://www.runninghub.cn/)
 - [即梦 AI](https://jimeng.jianying.com/)
 - [seedream 4.0](https://www.volcengine.com/experience/ark?launch=seedream)
 - [liblib](https://www.liblib.art/)
