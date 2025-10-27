@@ -72,6 +72,7 @@
 - [elevenlabs](https://ui.elevenlabs.io/)
 
 #### 开源
+- [ha-mcp-for-xiaozhi](https://github.com/c1pher-cn/ha-mcp-for-xiaozhi)
 - [facechain](https://github.com/modelscope/facechain)
 - [ffhq-dataset](https://github.com/NVlabs/ffhq-dataset)
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
