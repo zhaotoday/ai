@@ -4,6 +4,7 @@
 - [小智 AI 聊天机器人百科全书](https://ccnphfhqs21z.feishu.cn/wiki/F5krwD16viZoF0kKkvDcrZNYnhb)
 
 #### 产品
+- [小智 AI](https://xiaozhi.me/)
 - [runninghub](https://www.runninghub.cn/)
 - [即梦 AI](https://jimeng.jianying.com/)
 - [seedream 4.0](https://www.volcengine.com/experience/ark?launch=seedream)
