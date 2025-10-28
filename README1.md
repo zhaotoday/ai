@@ -71,6 +71,7 @@
 - [智创聚合 API](https://api.lconai.com/)
 - [AI/ML API](https://aimlapi.com/)
 - [ai-gateway](https://vercel.com/ai-gateway)
+- [openiapi](https://openiapi.com/)
 
 #### UI 库
 - [elevenlabs](https://ui.elevenlabs.io/)
