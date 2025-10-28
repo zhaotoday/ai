@@ -108,6 +108,7 @@
 - [万彩 AI](https://ai.kezhan365.com/)
 
 #### 导航
+- [openi](https://openi.cn/)
 - [AI 导航网](https://www.ainav.cn/)
 - [AIHub](https://www.aihub.cn/)
 - [AI神器集](https://hao.logosc.cn/)
