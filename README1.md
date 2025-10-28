@@ -7,6 +7,7 @@
 - [Moji 小智AI衍生版](https://oshwhub.com/movecall/moji-xiaozhi-ai-derivative-editi)
 
 #### 产品
+- [讯飞星辰Agent开发平台](https://agent.xfyun.cn/home)
 - [tuya](https://www.tuya.com/cn/)
 - [小智 AI](https://xiaozhi.me/)
 - [runninghub](https://www.runninghub.cn/)
