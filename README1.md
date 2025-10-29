@@ -80,6 +80,7 @@
 - [elevenlabs](https://ui.elevenlabs.io/)
 
 #### 开源
+- [PromptX](https://github.com/Deepractice/PromptX) 
 - [xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server)
 - [ha-mcp-for-xiaozhi](https://github.com/c1pher-cn/ha-mcp-for-xiaozhi)
 - [facechain](https://github.com/modelscope/facechain)
