@@ -66,6 +66,7 @@
 - [百宝箱](https://www.tbox.cn/about)
 
 #### API 聚合
+- [心流开放平台](https://platform.iflow.cn/models)
 - [302 AI](https://302.ai/)
 - [aionly](https://www.aiionly.com/)
 - [openrouter](https://openrouter.ai/)
