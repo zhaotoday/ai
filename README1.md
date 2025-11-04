@@ -159,6 +159,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [主流 AI 提示词优化工具推荐（2025 全面对比指南）](https://juejin.cn/post/7542735473929027626)
 - [手把手教你搭建本地知识库：个人与中小企业专属指南（2025年最新版）](https://juejin.cn/post/7564246514988056602)
 - [Vercel 发布 AI Gateway 神器！可一键访问数百个模型，助力零门槛开发 AI 应用](https://juejin.cn/post/7554117742929412115)
 - [国产神级开源 OCR 模型，GitHub 55k Star！再次起飞！](https://juejin.cn/post/7551630412469682218)
