@@ -84,6 +84,7 @@
 - [elevenlabs](https://ui.elevenlabs.io/)
 
 #### 开源
+- [aipexbase](https://gitee.com/kuafuai/aipexbase)
 - [TinyAI](https://github.com/Leavesfly/TinyAI)
 - [PromptX](https://github.com/Deepractice/PromptX) 
 - [xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server)
