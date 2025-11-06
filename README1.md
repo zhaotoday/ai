@@ -84,6 +84,7 @@
 - [elevenlabs](https://ui.elevenlabs.io/)
 
 #### 开源
+- [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze)
 - [aipexbase](https://gitee.com/kuafuai/aipexbase)
 - [TinyAI](https://github.com/Leavesfly/TinyAI)
 - [PromptX](https://github.com/Deepractice/PromptX) 
