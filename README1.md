@@ -85,6 +85,7 @@
 - [elevenlabs](https://ui.elevenlabs.io/)
 
 #### 开源
+- [awesome-prompt](https://github.com/NeekChaw/awesome-prompt)
 - [RIPER-5](https://github.com/NeekChaw/RIPER-5)
 - [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze)
 - [aipexbase](https://gitee.com/kuafuai/aipexbase)
