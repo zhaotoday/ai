@@ -168,6 +168,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [基于AI的智能家居语音控制系统优化：从唤醒到意图识别的全链路实践](https://juejin.cn/post/7551726134854975530)
 - [前端仔如何在公司搭建 AI Review 系统](https://juejin.cn/post/7532596434031149106)
 - [主流 AI 提示词优化工具推荐（2025 全面对比指南）](https://juejin.cn/post/7542735473929027626)
 - [手把手教你搭建本地知识库：个人与中小企业专属指南（2025年最新版）](https://juejin.cn/post/7564246514988056602)
