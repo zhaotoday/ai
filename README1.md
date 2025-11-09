@@ -169,6 +169,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [🌱 AIGC 技术的轻量化趋势：Web 端“小而美”模型的崛起](https://juejin.cn/post/7569810118169346063)
 - [前端程序员自己的知识库，使用NodeJS+LLM搭建一个属于自己的知识库](https://juejin.cn/post/7494920513966473251)
 - [基于AI的智能家居语音控制系统优化：从唤醒到意图识别的全链路实践](https://juejin.cn/post/7551726134854975530)
 - [前端仔如何在公司搭建 AI Review 系统](https://juejin.cn/post/7532596434031149106)
