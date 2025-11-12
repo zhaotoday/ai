@@ -86,6 +86,7 @@
 - [AionUi](https://github.com/iOfficeAI/AionUi)
 
 #### 开源
+- [TrendRadar](https://github.com/sansan0/TrendRadar)
 - [awesome-prompt](https://github.com/NeekChaw/awesome-prompt)
 - [RIPER-5](https://github.com/NeekChaw/RIPER-5)
 - [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze)
