@@ -71,6 +71,7 @@
 #### API 聚合
 - [juheapi](https://www.juheapi.com/)
 - [laozhang.ai](https://laozhang.ai/)
+- [幂简集成](https://www.explinks.com/)
 - [aimlapi](https://aimlapi.com/)
 - [心流开放平台](https://platform.iflow.cn/models)
 - [302 AI](https://302.ai/)
