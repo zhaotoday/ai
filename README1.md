@@ -92,6 +92,7 @@
 - [AionUi](https://github.com/iOfficeAI/AionUi)
 
 #### 开源
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
 - [litellm](https://github.com/BerriAI/litellm)
 - [TrendRadar](https://github.com/sansan0/TrendRadar)
 - [awesome-prompt](https://github.com/NeekChaw/awesome-prompt)
