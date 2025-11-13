@@ -8,6 +8,7 @@
 - [Moji 小智AI衍生版](https://oshwhub.com/movecall/moji-xiaozhi-ai-derivative-editi)
 
 #### 产品
+- [海绵音乐](https://www.haimian.com/)
 - [mureka](https://www.mureka.cn/)
 - [streamlake](https://www.streamlake.com/)
 - [LongCat-Video](https://meituan-longcat.github.io/LongCat-Video/)
