@@ -92,6 +92,7 @@
 - [AionUi](https://github.com/iOfficeAI/AionUi)
 
 #### 开源
+- [litellm](https://github.com/BerriAI/litellm)
 - [TrendRadar](https://github.com/sansan0/TrendRadar)
 - [awesome-prompt](https://github.com/NeekChaw/awesome-prompt)
 - [RIPER-5](https://github.com/NeekChaw/RIPER-5)
