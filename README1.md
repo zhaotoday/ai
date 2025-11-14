@@ -94,6 +94,7 @@
 - [AionUi](https://github.com/iOfficeAI/AionUi)
 
 #### 开源
+- [awesome-digital-human-live2d](https://gitcode.com/GitHub_Trending/aw/awesome-digital-human-live2d)
 - [any-llm](https://github.com/mozilla-ai/any-llm)
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
 - [litellm](https://github.com/BerriAI/litellm)
