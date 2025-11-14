@@ -72,6 +72,7 @@
 
 #### API 聚合
 - [juheapi](https://www.juheapi.com/)
+- [gateone](https://www.gateone.ai/)
 - [laozhang.ai](https://laozhang.ai/)
 - [幂简集成](https://www.explinks.com/)
 - [aimlapi](https://aimlapi.com/)
