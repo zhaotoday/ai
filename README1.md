@@ -94,6 +94,7 @@
 - [AionUi](https://github.com/iOfficeAI/AionUi)
 
 #### 开源
+- [short-video-factory](https://github.com/YILS-LIN/short-video-factory)
 - [ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS)
 - [chatwiki](https://github.com/zhimaAi/chatwiki)
 - [awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
