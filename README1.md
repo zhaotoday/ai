@@ -8,6 +8,7 @@
 - [Moji 小智AI衍生版](https://oshwhub.com/movecall/moji-xiaozhi-ai-derivative-editi)
 
 #### 产品
+- [comet](https://www.perplexity.ai/comet)
 - [minimax](https://www.minimax.io/)
 - [海绵音乐](https://www.haimian.com/)
 - [mureka](https://www.mureka.cn/)
