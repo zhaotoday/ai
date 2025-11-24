@@ -188,6 +188,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [又一款AI对口型神器，只需1分钟，让照片开口说话唱歌！（手机版详细教程）](https://juejin.cn/post/7455496267760140351)
 - [AI领域常见概念一览](https://juejin.cn/post/7568323565771800612)
 - [Soul 发布超强端侧语音模型，没错，就是你想的那个 Soul 😍😍😍](https://juejin.cn/post/7567889397495414820)
 - [当开源 OCR 革命撞上多模态成本困局：我们如何用 Gateone.ai 把 DeepSeek-OCR 变成 “印钞机”](https://juejin.cn/post/7564246560848379946)
