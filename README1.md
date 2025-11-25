@@ -6,6 +6,7 @@
 - [人工智能培训课件资源](https://github.com/git-cloner/ai-course)
 - [小智 AI 聊天机器人百科全书](https://ccnphfhqs21z.feishu.cn/wiki/F5krwD16viZoF0kKkvDcrZNYnhb)
 - [Moji 小智AI衍生版](https://oshwhub.com/movecall/moji-xiaozhi-ai-derivative-editi)
+- [free-books](https://github.com/JavaInterviewHub/free-books)
 
 #### 产品
 - [comet](https://www.perplexity.ai/comet)
