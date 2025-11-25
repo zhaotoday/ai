@@ -95,6 +95,7 @@
 - [AionUi](https://github.com/iOfficeAI/AionUi)
 
 #### 开源
+- [pipecat](https://github.com/pipecat-ai/pipecat)
 - [ViMax](https://github.com/HKUDS/ViMax)
 - [dinov3](https://github.com/facebookresearch/dinov3)
 - [short-video-factory](https://github.com/YILS-LIN/short-video-factory)
