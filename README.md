@@ -164,6 +164,7 @@
 - [火山引擎 OpenAPI node sdk](https://github.com/volcengine/volc-sdk-nodejs/blob/main/README_zh.md)
 
 #### UI
+- [ai-elements-vue](https://github.com/vuepont/ai-elements-vue)
 - [TD Chat for AI](https://tdesign.tencent.com/chat/getting-started)
 - [ai-chatbot](https://github.com/vercel/ai-chatbot)
 - [assistant-ui](https://www.assistant-ui.com/)
