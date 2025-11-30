@@ -97,6 +97,7 @@
 - [AionUi](https://github.com/iOfficeAI/AionUi)
 
 #### 开源
+- [index-tts-vllm](https://github.com/Ksuriuri/index-tts-vllm)
 - [pipecat](https://github.com/pipecat-ai/pipecat)
 - [ViMax](https://github.com/HKUDS/ViMax)
 - [dinov3](https://github.com/facebookresearch/dinov3)
