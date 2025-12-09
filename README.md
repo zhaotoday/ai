@@ -434,6 +434,7 @@
 - [OpenAI 新发布GPT 最佳实践：落地大模型应用的策略和战术](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 
 #### 文章
+- [什么?大模型部署需要多少显存你都不知道?](https://juejin.cn/post/7580740563893633058)
 - [回答准确率从60%飙至95%！AI知识库救命方案](https://juejin.cn/post/7527683190645522467)
 - [又一款国产AI音乐工具！字节跳动又进军AI音乐了，这是要干掉Suno呀...](https://juejin.cn/post/7398480670445600831)
 - [Prompt 工程实用技巧：掌握高效 AI 交互核心](https://juejin.cn/post/7516728651979898917)
