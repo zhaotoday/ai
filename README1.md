@@ -194,6 +194,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [不敢把个人信息喂给 AI？OneAIFW 简单搞定隐私保护！](https://juejin.cn/post/7581693431740022847)
 - [MaxKB4j — 基于 Java 的开源 RAG 知识库与 LLM 工作流平台](https://juejin.cn/post/7579190764766068776)
 - [开箱你的 AI 语音女友](https://juejin.cn/post/7459319375004565540)
 - [完全免费！被这款国产AI漫画工具惊艳了，3步生成连载漫画！手机可用（附保姆级教程）](https://juejin.cn/post/7569537693501505579)
