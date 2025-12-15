@@ -97,6 +97,7 @@
 - [AionUi](https://github.com/iOfficeAI/AionUi)
 
 #### 开源
+- [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 - [Step-Audio-EditX](https://github.com/stepfun-ai/Step-Audio-EditX)
 - [index-tts-vllm](https://github.com/Ksuriuri/index-tts-vllm)
