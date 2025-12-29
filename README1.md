@@ -98,6 +98,7 @@
 - [AionUi](https://github.com/iOfficeAI/AionUi)
 
 #### 开源
+- [aimangastudio](https://github.com/morsoli/aimangastudio)
 - [MindSearch](https://github.com/InternLM/MindSearch)
 - [coze-studio](https://github.com/coze-dev/coze-studio)
 - [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
