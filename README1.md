@@ -200,6 +200,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [打造智能微信机器人：wxauto 与 DeepSeek 的完美结合](https://juejin.cn/post/7470033927442579490)
 - [不再费脑, 写给 AI 爱好者的向量 (Vector) 入门指南](https://juejin.cn/post/7577795545441009698)
 - [不敢把个人信息喂给 AI？OneAIFW 简单搞定隐私保护！](https://juejin.cn/post/7581693431740022847)
 - [MaxKB4j — 基于 Java 的开源 RAG 知识库与 LLM 工作流平台](https://juejin.cn/post/7579190764766068776)
