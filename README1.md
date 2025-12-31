@@ -76,6 +76,7 @@
 - [百宝箱](https://www.tbox.cn/about)
 
 #### API 聚合
+- [deep-core](https://www.deep-core.cn/)
 - [juheapi](https://www.juheapi.com/)
 - [gateone](https://www.gateone.ai/)
 - [laozhang.ai](https://laozhang.ai/)
