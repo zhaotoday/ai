@@ -100,6 +100,7 @@
 - [AionUi](https://github.com/iOfficeAI/AionUi)
 
 #### 开源
+- [BiliNote](https://github.com/JefferyHcool/BiliNote)
 - [aimangastudio](https://github.com/morsoli/aimangastudio)
 - [MindSearch](https://github.com/InternLM/MindSearch)
 - [coze-studio](https://github.com/coze-dev/coze-studio)
