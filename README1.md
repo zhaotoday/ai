@@ -78,6 +78,7 @@
 #### API 聚合
 - [poloapi](https://poloapi.com/)
 - [openrouter](https://openrouter.ai/)
+- [siliconflow](https://www.siliconflow.com/)
 - [poooai](https://poooai.com/)
 - [deep-core](https://www.deep-core.cn/)
 - [juheapi](https://www.juheapi.com/)
