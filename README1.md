@@ -99,6 +99,7 @@
 - [deerapi](https://www.deerapi.com/)
 - [dmxapi](https://dmxapi.cn/)
 - [神马中转 API](https://api.whatai.cc/)
+- [aihubmix](https://aihubmix.com/)
 
 #### UI 库
 - [elevenlabs](https://ui.elevenlabs.io/)
