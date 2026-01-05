@@ -96,6 +96,7 @@
 - [ai-gateway](https://vercel.com/ai-gateway)
 - [openiapi](https://openiapi.com/)
 - [deerapi](https://www.deerapi.com/)
+- [dmxapi](https://dmxapi.cn/)
 
 #### UI 库
 - [elevenlabs](https://ui.elevenlabs.io/)
