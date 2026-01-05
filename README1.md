@@ -98,6 +98,7 @@
 - [openiapi](https://openiapi.com/)
 - [deerapi](https://www.deerapi.com/)
 - [dmxapi](https://dmxapi.cn/)
+- [神马中转 API](https://api.whatai.cc/)
 
 #### UI 库
 - [elevenlabs](https://ui.elevenlabs.io/)
