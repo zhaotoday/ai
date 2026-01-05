@@ -95,6 +95,7 @@
 - [AI/ML API](https://aimlapi.com/)
 - [ai-gateway](https://vercel.com/ai-gateway)
 - [openiapi](https://openiapi.com/)
+- [deerapi](https://www.deerapi.com/)
 
 #### UI 库
 - [elevenlabs](https://ui.elevenlabs.io/)
