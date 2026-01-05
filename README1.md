@@ -76,6 +76,8 @@
 - [百宝箱](https://www.tbox.cn/about)
 
 #### API 聚合
+- [poloapi](https://poloapi.com/)
+- [openrouter](https://openrouter.ai/)
 - [poooai](https://poooai.com/)
 - [deep-core](https://www.deep-core.cn/)
 - [juheapi](https://www.juheapi.com/)
@@ -86,7 +88,6 @@
 - [心流开放平台](https://platform.iflow.cn/models)
 - [302 AI](https://302.ai/)
 - [aionly](https://www.aiionly.com/)
-- [openrouter](https://openrouter.ai/)
 - [together.ai](https://www.together.ai/)
 - [cometapi](https://www.cometapi.com/)
 - [JuheNext](https://www.juhenext.com/zh/)
