@@ -210,6 +210,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [快速上手！FastGPT+Claude 一键生成小红书爆款图文，轻松吸粉10万+！](https://juejin.cn/post/7485265626584891455)
 - [ESP32 + MCP over MQTT：实现智能设备语音交互](https://juejin.cn/post/7550289374467702818)
 - [打造智能微信机器人：wxauto 与 DeepSeek 的完美结合](https://juejin.cn/post/7470033927442579490)
 - [不再费脑, 写给 AI 爱好者的向量 (Vector) 入门指南](https://juejin.cn/post/7577795545441009698)
