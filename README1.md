@@ -102,6 +102,7 @@
 - [aihubmix](https://aihubmix.com/)
 - [API 易](https://apiyi.com/)
 - [灵芽 API](https://api.lingyaai.cn/)
+- [4SAPI](https://4sapi.com/)
 
 #### UI 库
 - [elevenlabs](https://ui.elevenlabs.io/)
