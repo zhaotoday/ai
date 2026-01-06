@@ -210,6 +210,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [2025年每个开发人员都应该掌握的 7 个尖端 AI 框架](https://juejin.cn/post/7478165398274785299)
 - [快速上手！FastGPT+Claude 一键生成小红书爆款图文，轻松吸粉10万+！](https://juejin.cn/post/7485265626584891455)
 - [ESP32 + MCP over MQTT：实现智能设备语音交互](https://juejin.cn/post/7550289374467702818)
 - [打造智能微信机器人：wxauto 与 DeepSeek 的完美结合](https://juejin.cn/post/7470033927442579490)
