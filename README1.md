@@ -110,6 +110,7 @@
 - [ai-selector](https://github.com/tombcato/ai-selector)
 
 #### 开源
+- [awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
 - [BiliNote](https://github.com/JefferyHcool/BiliNote)
 - [aimangastudio](https://github.com/morsoli/aimangastudio)
 - [MindSearch](https://github.com/InternLM/MindSearch)
