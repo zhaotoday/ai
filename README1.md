@@ -10,6 +10,7 @@
 - [free-books](https://github.com/JavaInterviewHub/free-books)
 
 #### 产品
+- [aibase](https://www.aibase.com/)
 - [picdoc](https://www.picdoc.cn/)
 - [comet](https://www.perplexity.ai/comet)
 - [minimax](https://www.minimax.io/)
