@@ -107,6 +107,7 @@
 #### UI 库
 - [elevenlabs](https://ui.elevenlabs.io/)
 - [AionUi](https://github.com/iOfficeAI/AionUi)
+- [ai-selector](https://github.com/tombcato/ai-selector)
 
 #### 开源
 - [BiliNote](https://github.com/JefferyHcool/BiliNote)
