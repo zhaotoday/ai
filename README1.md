@@ -111,6 +111,7 @@
 - [ai-selector](https://github.com/tombcato/ai-selector)
 
 #### 开源
+- [inksight](https://github.com/google-research/inksight)
 - [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner)
 - [awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
 - [BiliNote](https://github.com/JefferyHcool/BiliNote)
