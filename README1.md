@@ -217,6 +217,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [告别延迟！通义开源Fun-Audio-Chat，这才是我们要的语音AI](https://juejin.cn/post/7589940210832228395)
 - [2025最好用的10大AI工具，强烈建议收藏！](https://juejin.cn/post/7479990909834592267)
 - [2025年每个开发人员都应该掌握的 7 个尖端 AI 框架](https://juejin.cn/post/7478165398274785299)
 - [快速上手！FastGPT+Claude 一键生成小红书爆款图文，轻松吸粉10万+！](https://juejin.cn/post/7485265626584891455)
