@@ -219,6 +219,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [AI 语音合成技术实践：实现文本转语音实时流式播放](https://juejin.cn/post/7559757556479410230)
 - [用 Node.js 封装豆包语音识别AI模型接口：双向实时流式传输音频和文本](https://juejin.cn/post/7565518432043450394)
 - [告别延迟！通义开源Fun-Audio-Chat，这才是我们要的语音AI](https://juejin.cn/post/7589940210832228395)
 - [2025最好用的10大AI工具，强烈建议收藏！](https://juejin.cn/post/7479990909834592267)
