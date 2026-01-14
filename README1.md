@@ -219,6 +219,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [用 Node.js 封装豆包语音识别AI模型接口：双向实时流式传输音频和文本](https://juejin.cn/post/7565518432043450394)
 - [告别延迟！通义开源Fun-Audio-Chat，这才是我们要的语音AI](https://juejin.cn/post/7589940210832228395)
 - [2025最好用的10大AI工具，强烈建议收藏！](https://juejin.cn/post/7479990909834592267)
 - [2025年每个开发人员都应该掌握的 7 个尖端 AI 框架](https://juejin.cn/post/7478165398274785299)
