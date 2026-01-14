@@ -112,6 +112,7 @@
 - [ai-selector](https://github.com/tombcato/ai-selector)
 
 #### 开源
+- [agent-browser](https://github.com/vercel-labs/agent-browser)
 - [ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation)
 - [inksight](https://github.com/google-research/inksight)
 - [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner)
