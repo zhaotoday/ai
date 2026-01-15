@@ -220,6 +220,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [2026年风口项目：AI漫剧怎么做？这套“傻瓜式”教程请收好](https://juejin.cn/post/7594722586732789766)
 - [2025 年终复盘：当 AI 工具链从生产力进化为我的生活秩序](https://juejin.cn/post/7595043440520495110)
 - [AI 语音合成技术实践：实现文本转语音实时流式播放](https://juejin.cn/post/7559757556479410230)
 - [用 Node.js 封装豆包语音识别AI模型接口：双向实时流式传输音频和文本](https://juejin.cn/post/7565518432043450394)
