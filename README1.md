@@ -112,6 +112,7 @@
 - [ai-selector](https://github.com/tombcato/ai-selector)
 
 #### 开源
+- [eigent](https://github.com/eigent-ai/eigent)
 - [AI-Mock](https://github.com/Teernage/AI-Mock)
 - [agent-browser](https://github.com/vercel-labs/agent-browser)
 - [ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation)
