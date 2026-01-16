@@ -10,6 +10,7 @@
 - [free-books](https://github.com/JavaInterviewHub/free-books)
 
 #### 产品
+- [character](https://character.ai/)
 - [holopix](https://holopix.cn/)
 - [aibase](https://www.aibase.com/)
 - [picdoc](https://www.picdoc.cn/)
