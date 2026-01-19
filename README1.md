@@ -10,6 +10,7 @@
 - [free-books](https://github.com/JavaInterviewHub/free-books)
 
 #### 产品
+- [Google Flow](https://labs.google/fx/tools/flow)
 - [character](https://character.ai/)
 - [holopix](https://holopix.cn/)
 - [aibase](https://www.aibase.com/)
