@@ -112,6 +112,7 @@
 - [elevenlabs](https://ui.elevenlabs.io/)
 - [AionUi](https://github.com/iOfficeAI/AionUi)
 - [ai-selector](https://github.com/tombcato/ai-selector)
+- [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
 - [huobao-drama](https://github.com/chatfire-AI/huobao-drama)
