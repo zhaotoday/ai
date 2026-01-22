@@ -226,6 +226,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [玩转智能家居入门](https://juejin.cn/post/7597278451029770250)
 - [AI大模型小白手册｜基础原理篇](https://juejin.cn/post/7585027616736165940)
 - [2026年风口项目：AI漫剧怎么做？这套“傻瓜式”教程请收好](https://juejin.cn/post/7594722586732789766)
 - [2025 年终复盘：当 AI 工具链从生产力进化为我的生活秩序](https://juejin.cn/post/7595043440520495110)
