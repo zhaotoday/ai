@@ -115,6 +115,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [clawdbot](https://github.com/clawdbot/clawdbot)
 - [huobao-drama](https://github.com/chatfire-AI/huobao-drama)
 - [eigent](https://github.com/eigent-ai/eigent)
 - [AI-Mock](https://github.com/Teernage/AI-Mock)
