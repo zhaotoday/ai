@@ -230,6 +230,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [AI+Excalidraw，用自然语言画手绘风格技术图](https://juejin.cn/post/7588711557500010546)
 - [Mini-Wiki：基于 Skills 架构的新一代 AI 驱动文档生成器](https://juejin.cn/post/7599933828544725055)
 - [玩转智能家居入门](https://juejin.cn/post/7597278451029770250)
 - [AI大模型小白手册｜基础原理篇](https://juejin.cn/post/7585027616736165940)
