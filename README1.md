@@ -116,6 +116,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [CodePilot](https://github.com/op7418/CodePilot)
 - [whisper.cpp](https://github.com/ggml-org/whisper.cpp)
 - [banana-slides](https://github.com/Anionex/banana-slides)
 - [LiveTalking](https://github.com/lipku/LiveTalking)
