@@ -234,6 +234,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [【语音合成】B 站开源 IndexTTS ：声音克隆，吊打真人发音，断句精准度 98%](https://juejin.cn/post/7516745491104399395)
 - [AI+Excalidraw，用自然语言画手绘风格技术图](https://juejin.cn/post/7588711557500010546)
 - [Mini-Wiki：基于 Skills 架构的新一代 AI 驱动文档生成器](https://juejin.cn/post/7599933828544725055)
 - [玩转智能家居入门](https://juejin.cn/post/7597278451029770250)
