@@ -116,6 +116,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
 - [langextract](https://github.com/google/langextract)
 - [CodePilot](https://github.com/op7418/CodePilot)
 - [whisper.cpp](https://github.com/ggml-org/whisper.cpp)
