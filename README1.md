@@ -116,6 +116,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [waoowaoo](https://github.com/waoowaooAI/waoowaoo)
 - [ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
 - [langextract](https://github.com/google/langextract)
 - [CodePilot](https://github.com/op7418/CodePilot)
