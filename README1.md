@@ -116,6 +116,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [page-agent](https://github.com/alibaba/page-agent)
 - [Alice](https://github.com/pmbstyle/Alice)
 - [aime-chat](https://github.com/DarkNoah/aime-chat)
 - [wiseflow](https://github.com/TeamWiseFlow/wiseflow)
