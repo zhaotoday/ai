@@ -116,6 +116,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [wiseflow](https://github.com/TeamWiseFlow/wiseflow)
 - [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager)
 - [ai-browser](https://github.com/DeepFundAI/ai-browser)
 - [waoowaoo](https://github.com/waoowaooAI/waoowaoo)
