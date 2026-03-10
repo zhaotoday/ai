@@ -118,6 +118,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [autoresearch](https://github.com/karpathy/autoresearch)
 - [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
 - [WebAI2API](https://github.com/foxhui/WebAI2API)
 - [page-agent](https://github.com/alibaba/page-agent)
