@@ -251,6 +251,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [AI 术语满天飞？90% 的人只懂名词，不懂为什么！](https://juejin.cn/post/7613680097548189711)
 - [AI入门知识点：什么是 AIGC、多模态、RAG、Function Call、Agent、MCP?](https://juejin.cn/post/7583878719543640073)
 - [【语音合成】B 站开源 IndexTTS ：声音克隆，吊打真人发音，断句精准度 98%](https://juejin.cn/post/7516745491104399395)
 - [AI+Excalidraw，用自然语言画手绘风格技术图](https://juejin.cn/post/7588711557500010546)
