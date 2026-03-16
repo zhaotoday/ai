@@ -10,6 +10,7 @@
 - [free-books](https://github.com/JavaInterviewHub/free-books)
 
 #### 产品
+- [chatlab](https://chatlab.fun/cn/)
 - [有道龙虾](https://lobsterai.youdao.com/#/index)
 - [paperclip](https://paperclip.ing/)
 - [Google Flow](https://labs.google/fx/tools/flow)
