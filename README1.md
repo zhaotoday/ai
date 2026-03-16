@@ -113,6 +113,7 @@
 - [fast-code](https://api.timebackward.com/)
 
 #### UI 库
+- [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 - [elevenlabs](https://ui.elevenlabs.io/)
 - [AionUi](https://github.com/iOfficeAI/AionUi)
 - [ai-selector](https://github.com/tombcato/ai-selector)
