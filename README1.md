@@ -119,6 +119,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [librechat](https://www.librechat.ai/)
 - [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc)
 - [autoresearch](https://github.com/karpathy/autoresearch)
 - [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
