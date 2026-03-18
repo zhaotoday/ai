@@ -121,6 +121,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [langgraphjs](https://github.com/langchain-ai/langgraphjs)
 - [langchainjs](https://github.com/langchain-ai/langchainjs)
 - [librechat](https://www.librechat.ai/)
 - [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc)
