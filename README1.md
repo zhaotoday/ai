@@ -83,6 +83,7 @@
 - [百宝箱](https://www.tbox.cn/about)
 
 #### API 聚合
+- [qt](https://gpt.qt.cool/)
 - [poloapi](https://poloapi.com/)
 - [openrouter](https://openrouter.ai/)
 - [siliconflow](https://www.siliconflow.com/)
