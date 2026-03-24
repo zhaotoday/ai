@@ -123,6 +123,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [supermemory](https://github.com/supermemoryai/supermemory)
 - [MuseTalk](https://github.com/TMElyralab/MuseTalk)
 - [facefusion](https://github.com/facefusion/facefusion)
 - [NarratoAI](https://github.com/linyqh/NarratoAI)
