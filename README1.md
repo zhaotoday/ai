@@ -259,6 +259,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [67个AI编程必会知识，1.6w字一次讲透！女友：“你要考研啊？！”](https://juejin.cn/post/7613234803012321314)
 - [用 OiiOii 做 AI 漫剧，简直就是起号神器！](https://juejin.cn/post/7602162571380162566)
 - [AI 术语满天飞？90% 的人只懂名词，不懂为什么！](https://juejin.cn/post/7613680097548189711)
 - [AI入门知识点：什么是 AIGC、多模态、RAG、Function Call、Agent、MCP?](https://juejin.cn/post/7583878719543640073)
