@@ -123,6 +123,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [facefusion](https://github.com/facefusion/facefusion)
 - [NarratoAI](https://github.com/linyqh/NarratoAI)
 - [langgraphjs](https://github.com/langchain-ai/langgraphjs)
 - [langchainjs](https://github.com/langchain-ai/langchainjs)
