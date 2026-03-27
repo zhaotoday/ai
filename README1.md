@@ -263,6 +263,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [设计师慌了：Google Stitch 一出，Figma 两天跌了 12%](https://juejin.cn/post/7619214301321527359)
 - [67个AI编程必会知识，1.6w字一次讲透！女友：“你要考研啊？！”](https://juejin.cn/post/7613234803012321314)
 - [用 OiiOii 做 AI 漫剧，简直就是起号神器！](https://juejin.cn/post/7602162571380162566)
 - [AI 术语满天飞？90% 的人只懂名词，不懂为什么！](https://juejin.cn/post/7613680097548189711)
