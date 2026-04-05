@@ -123,6 +123,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator)
 - [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
 - [expect](https://github.com/millionco/expect)
 - [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
