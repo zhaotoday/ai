@@ -124,6 +124,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [pi-mono](https://github.com/badlogic/pi-mono)
 - [AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator)
 - [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
 - [expect](https://github.com/millionco/expect)
