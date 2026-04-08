@@ -124,6 +124,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [type4me](https://github.com/joewongjc/type4me)
 - [AI_film_studio](https://github.com/suki0dayo/AI_film_studio)
 - [qmd](https://github.com/tobi/qmd)
 - [pi-mono](https://github.com/badlogic/pi-mono)
