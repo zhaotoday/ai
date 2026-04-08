@@ -124,6 +124,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
 - [type4me](https://github.com/joewongjc/type4me)
 - [AI_film_studio](https://github.com/suki0dayo/AI_film_studio)
 - [qmd](https://github.com/tobi/qmd)
