@@ -124,6 +124,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [AI_film_studio](https://github.com/suki0dayo/AI_film_studio)
 - [qmd](https://github.com/tobi/qmd)
 - [pi-mono](https://github.com/badlogic/pi-mono)
 - [AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator)
