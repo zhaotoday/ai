@@ -10,6 +10,7 @@
 - [free-books](https://github.com/JavaInterviewHub/free-books)
 
 #### 产品
+- [happyhorses](https://happyhorses.io/zh/)
 - [typeless](https://www.typeless.com/)
 - [oiioii](https://www.oiioii.ai/home)
 - [chatlab](https://chatlab.fun/cn/)
