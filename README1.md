@@ -126,6 +126,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [ai-detector](https://github.com/MrXujiang/ai-detector)
 - [PixVerseAI/cli](https://github.com/PixVerseAI/cli)
 - [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app)
 - [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
