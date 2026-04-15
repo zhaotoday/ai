@@ -277,6 +277,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [InfiniteTalk 实测：一张照片 + 一段语音，直接生成说话视频](https://juejin.cn/post/7623808494212743202)
 - [Pipecat：构建实时语音 AI Agent 的开源编排框架，500ms 级端到端延迟](https://juejin.cn/post/7620259259633500200)
 - [告别按量付费：搭建一个无限免费的私人 TTS 服务](https://juejin.cn/post/7599572091075133482)
 - [设计师慌了：Google Stitch 一出，Figma 两天跌了 12%](https://juejin.cn/post/7619214301321527359)
