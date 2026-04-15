@@ -126,6 +126,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [ai-detector](https://github.com/MrXujiang/ai-detector)
 - [PixVerseAI/cli](https://github.com/PixVerseAI/cli)
 - [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app)
