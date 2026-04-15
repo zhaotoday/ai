@@ -193,6 +193,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 #### 开源
+- [ComfyUI-VoxCPM](https://github.com/wildminder/ComfyUI-VoxCPM)
 - [FunASR](https://github.com/modelscope/FunASR)
 - [CloudBase-AI-ToolKit](https://github.com/TencentCloudBase/CloudBase-AI-ToolKit)
 - [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
