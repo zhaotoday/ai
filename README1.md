@@ -126,6 +126,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [openrelay](https://github.com/romgX/openrelay)
 - [wingman-ai](https://github.com/ShipBit/wingman-ai)
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [ai-detector](https://github.com/MrXujiang/ai-detector)
