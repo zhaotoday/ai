@@ -126,6 +126,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [flow2api](https://github.com/TheSmallHanCat/flow2api)
 - [voicebox](https://github.com/jamiepine/voicebox)
 - [openrelay](https://github.com/romgX/openrelay)
 - [wingman-ai](https://github.com/ShipBit/wingman-ai)
