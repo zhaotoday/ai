@@ -126,6 +126,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [dive-into-llms](https://github.com/Lordog/dive-into-llms)
 - [evolver](https://github.com/EvoMap/evolver)
 - [flow2api](https://github.com/TheSmallHanCat/flow2api)
 - [voicebox](https://github.com/jamiepine/voicebox)
