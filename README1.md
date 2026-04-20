@@ -87,6 +87,7 @@
 - [百宝箱](https://www.tbox.cn/about)
 
 #### API 聚合
+- [bewild](https://bewild.ai/)
 - [0011](https://0011.ai/)
 - [2233](https://2233.ai/)
 - [qt](https://gpt.qt.cool/)
