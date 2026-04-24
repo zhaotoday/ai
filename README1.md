@@ -130,6 +130,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [openOiif](https://github.com/Xeron2000/openOiif)
 - [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
 - [OmniVoice](https://github.com/k2-fsa/OmniVoice)
 - [dive-into-llms](https://github.com/Lordog/dive-into-llms)
