@@ -88,6 +88,7 @@
 - [百宝箱](https://www.tbox.cn/about)
 
 #### API 聚合
+- [ofox](https://ofox.ai/zh)
 - [apimart](https://apimart.ai/zh)
 - [bewild](https://bewild.ai/)
 - [0011](https://0011.ai/)
