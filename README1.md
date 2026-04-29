@@ -292,6 +292,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [Lyt.js AI：让前端开发进入智能生成时代](https://juejin.cn/post/7633262208110395426)
 - [InfiniteTalk 实测：一张照片 + 一段语音，直接生成说话视频](https://juejin.cn/post/7623808494212743202)
 - [Pipecat：构建实时语音 AI Agent 的开源编排框架，500ms 级端到端延迟](https://juejin.cn/post/7620259259633500200)
 - [告别按量付费：搭建一个无限免费的私人 TTS 服务](https://juejin.cn/post/7599572091075133482)
