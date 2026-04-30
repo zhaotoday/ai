@@ -132,6 +132,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 - [langchain4j-aideepin](https://github.com/moyangzhan/langchain4j-aideepin)
 - [openOiif](https://github.com/Xeron2000/openOiif)
 - [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
