@@ -132,6 +132,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [ai4j](https://github.com/LnYo-Cly/ai4j)
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 - [langchain4j-aideepin](https://github.com/moyangzhan/langchain4j-aideepin)
 - [openOiif](https://github.com/Xeron2000/openOiif)
