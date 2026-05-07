@@ -132,6 +132,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [agent-wechat](https://github.com/thisnick/agent-wechat)
 - [openakita](https://github.com/openakita/openakita)
 - [ai4j](https://github.com/LnYo-Cly/ai4j)
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
