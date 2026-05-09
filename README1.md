@@ -133,6 +133,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [local-deep-research](https://github.com/LearningCircuit/local-deep-research)
 - [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX)
 - [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
 - [sokuji](https://github.com/kizuna-ai-lab/sokuji)
