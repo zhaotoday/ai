@@ -133,6 +133,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
 - [sokuji](https://github.com/kizuna-ai-lab/sokuji)
 - [agent-wechat](https://github.com/thisnick/agent-wechat)
 - [openakita](https://github.com/openakita/openakita)
