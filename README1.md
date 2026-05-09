@@ -1,4 +1,5 @@
 #### 教程
+- [ai-book](https://github.com/MrXujiang/ai-book)
 - [Python-AI](https://github.com/kzbkzb/Python-AI)
 - [🤖 从零开始构建智能体系统原理与实践教程](https://github.com/datawhalechina/hello-agents)
 - [🚀 Easy AI - 让 AI 学习变得简单](https://github.com/ConardLi/easy-learn-ai)
