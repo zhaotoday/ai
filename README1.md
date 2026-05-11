@@ -133,6 +133,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [AI-Trader](https://github.com/HKUDS/AI-Trader)
 - [cocoindex](https://github.com/cocoindex-io/cocoindex)
 - [local-deep-research](https://github.com/LearningCircuit/local-deep-research)
 - [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX)
