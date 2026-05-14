@@ -133,6 +133,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [nanobot](https://github.com/HKUDS/nanobot)
 - [AI-Trader](https://github.com/HKUDS/AI-Trader)
 - [cocoindex](https://github.com/cocoindex-io/cocoindex)
 - [local-deep-research](https://github.com/LearningCircuit/local-deep-research)
