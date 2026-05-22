@@ -134,6 +134,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker)
 - [sub2api](https://github.com/Wei-Shaw/sub2api)
 - [awesome-ai-proxy](https://github.com/mn-api/awesome-ai-proxy)
 - [nanobot](https://github.com/HKUDS/nanobot)
