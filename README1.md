@@ -1,4 +1,5 @@
 #### 教程
+- [Awesome-AI-Pedia](https://github.com/qdleader/Awesome-AI-Pedia)
 - [ai-book](https://github.com/MrXujiang/ai-book)
 - [Python-AI](https://github.com/kzbkzb/Python-AI)
 - [🤖 从零开始构建智能体系统原理与实践教程](https://github.com/datawhalechina/hello-agents)
