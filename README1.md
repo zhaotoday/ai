@@ -135,6 +135,8 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [stop-slop](https://github.com/hardikpandya/stop-slop)
+- [humanizer](https://github.com/blader/humanizer)
 - [Humanizer-zh](https://github.com/op7418/Humanizer-zh)
 - [Fay](https://github.com/xszyou/Fay)
 - [rtk](https://github.com/rtk-ai/rtk)
