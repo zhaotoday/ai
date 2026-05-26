@@ -12,6 +12,7 @@
 - [free-books](https://github.com/JavaInterviewHub/free-books)
 
 #### 产品
+- [ACG-学术助手](https://aigc.5esm.com/reduce)
 - [exa](https://exa.ai/)
 - [krea](https://www.krea.ai/app)
 - [claudo](https://claudo.org/)
