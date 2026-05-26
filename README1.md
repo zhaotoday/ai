@@ -135,6 +135,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [Fay](https://github.com/xszyou/Fay)
 - [rtk](https://github.com/rtk-ai/rtk)
 - [aimanju](https://github.com/huangama666/aimanju)
 - [video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker)
