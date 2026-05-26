@@ -12,6 +12,7 @@
 - [free-books](https://github.com/JavaInterviewHub/free-books)
 
 #### 产品
+- [exa](https://exa.ai/)
 - [krea](https://www.krea.ai/app)
 - [claudo](https://claudo.org/)
 - [happyhorses](https://happyhorses.io/zh/)
