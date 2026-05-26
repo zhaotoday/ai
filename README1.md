@@ -135,6 +135,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [Humanizer-zh](https://github.com/op7418/Humanizer-zh)
 - [Fay](https://github.com/xszyou/Fay)
 - [rtk](https://github.com/rtk-ai/rtk)
 - [aimanju](https://github.com/huangama666/aimanju)
