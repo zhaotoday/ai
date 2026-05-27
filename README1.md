@@ -137,6 +137,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [jimeng-free-api-all](https://github.com/zhizinan1997/jimeng-free-api-all)
 - [stop-slop](https://github.com/hardikpandya/stop-slop)
 - [humanizer](https://github.com/blader/humanizer)
 - [Humanizer-zh](https://github.com/op7418/Humanizer-zh)
