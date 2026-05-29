@@ -12,6 +12,7 @@
 - [free-books](https://github.com/JavaInterviewHub/free-books)
 
 #### 产品
+- [佐糖](https://picwish.cn/online-photo-editor)
 - [录咖AI](https://reccloud.cn/)
 - [ACG-学术助手](https://aigc.5esm.com/reduce)
 - [exa](https://exa.ai/)
