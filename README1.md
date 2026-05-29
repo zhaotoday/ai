@@ -1,4 +1,5 @@
 #### 教程
+- [Vercel AI SDK vs TanStack AI](https://vercel.com/kb/guide/vercel-ai-sdk-vs-tanstack-ai)
 - [Awesome-AI-Pedia](https://github.com/qdleader/Awesome-AI-Pedia)
 - [ai-book](https://github.com/MrXujiang/ai-book)
 - [Python-AI](https://github.com/kzbkzb/Python-AI)
