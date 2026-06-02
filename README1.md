@@ -141,6 +141,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [VoxCPM](https://github.com/OpenBMB/VoxCPM)
 - [presenton](https://github.com/presenton/presenton)
 - [jimeng-free-api-all](https://github.com/zhizinan1997/jimeng-free-api-all)
 - [stop-slop](https://github.com/hardikpandya/stop-slop)
