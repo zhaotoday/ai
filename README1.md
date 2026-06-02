@@ -141,6 +141,8 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [stable-audio-3](https://github.com/Stability-AI/stable-audio-3)
+- [MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS)
 - [VoxCPM](https://github.com/OpenBMB/VoxCPM)
 - [presenton](https://github.com/presenton/presenton)
 - [jimeng-free-api-all](https://github.com/zhizinan1997/jimeng-free-api-all)
