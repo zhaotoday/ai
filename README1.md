@@ -323,6 +323,7 @@
 - [open-xiaoai](https://github.com/idootop/open-xiaoai)
 
 #### 文章
+- [穷鬼快乐AI工具Ollama](https://juejin.cn/post/7617480512559792179)
 - [斩获59.4K星！一款本地部署的开源私人知识库工具](https://juejin.cn/post/7564246514988269594)
 - [开源我的 GPT-Image2 生图 Skill，附大量玩法指南](https://juejin.cn/post/7633668887579164718)
 - [Lyt.js AI：让前端开发进入智能生成时代](https://juejin.cn/post/7633262208110395426)
