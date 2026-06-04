@@ -142,6 +142,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [MiroFish](https://github.com/666ghj/MiroFish)
 - [stable-audio-3](https://github.com/Stability-AI/stable-audio-3)
 - [MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS)
 - [VoxCPM](https://github.com/OpenBMB/VoxCPM)
