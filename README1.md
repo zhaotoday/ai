@@ -13,6 +13,7 @@
 - [free-books](https://github.com/JavaInterviewHub/free-books)
 
 #### 产品
+- [aigcpanel](https://aigcpanel.com/)
 - [lunabot](https://lunabot.ai/zh)
 - [astrbot](https://astrbot.app/)
 - [佐糖](https://picwish.cn/online-photo-editor)
