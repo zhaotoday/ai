@@ -13,6 +13,7 @@
 - [free-books](https://github.com/JavaInterviewHub/free-books)
 
 #### 产品
+- [美洽](https://www.meiqia.com/)
 - [aigcpanel](https://aigcpanel.com/)
 - [lunabot](https://lunabot.ai/zh)
 - [astrbot](https://astrbot.app/)
