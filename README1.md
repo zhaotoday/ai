@@ -145,6 +145,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [open-webui](https://github.com/open-webui/open-webui)
 - [DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat)
 - [aigcpanel](https://github.com/modstart-lib/aigcpanel)
 - [MiroFish](https://github.com/666ghj/MiroFish)
