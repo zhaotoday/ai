@@ -145,6 +145,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat)
 - [aigcpanel](https://github.com/modstart-lib/aigcpanel)
 - [MiroFish](https://github.com/666ghj/MiroFish)
 - [stable-audio-3](https://github.com/Stability-AI/stable-audio-3)
