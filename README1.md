@@ -146,6 +146,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [edge-tts](https://github.com/rany2/edge-tts)
 - [open-webui](https://github.com/open-webui/open-webui)
 - [DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat)
 - [aigcpanel](https://github.com/modstart-lib/aigcpanel)
