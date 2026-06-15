@@ -36,6 +36,7 @@
 - [Google AI Studio（需翻墙）](https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn)
 
 #### 产品
+- [univer](https://univer.ai/)
 - [zread](https://zread.ai/)
 - [conbrie](https://www.conbrie.com/home)
 - [youtube-dubbing](https://www.youtube-dubbing.com/zh/)
