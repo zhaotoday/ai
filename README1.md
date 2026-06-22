@@ -146,6 +146,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [penpot](https://github.com/penpot/penpot)
 - [freellmapi](https://github.com/tashfeenahmed/freellmapi)
 - [open-notebook](https://github.com/lfnovo/open-notebook)
 - [edge-tts](https://github.com/rany2/edge-tts)
