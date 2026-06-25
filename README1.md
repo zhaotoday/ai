@@ -146,6 +146,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
 - [penpot](https://github.com/penpot/penpot)
 - [freellmapi](https://github.com/tashfeenahmed/freellmapi)
 - [open-notebook](https://github.com/lfnovo/open-notebook)
