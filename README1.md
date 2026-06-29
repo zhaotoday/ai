@@ -14,6 +14,7 @@
 - [free-books](https://github.com/JavaInterviewHub/free-books)
 
 #### 产品
+- [FreeVoice](https://eleven-free.cgssoccer.com/)
 - [livekit](https://livekit.com/)
 - [美洽](https://www.meiqia.com/)
 - [aigcpanel](https://aigcpanel.com/)
