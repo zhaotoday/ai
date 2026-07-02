@@ -147,6 +147,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 - [odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
 - [penpot](https://github.com/penpot/penpot)
 - [freellmapi](https://github.com/tashfeenahmed/freellmapi)
