@@ -149,6 +149,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [openmed](https://github.com/maziyarpanahi/openmed)
 - [meetily](https://github.com/Zackriya-Solutions/meetily)
 - [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 - [odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
