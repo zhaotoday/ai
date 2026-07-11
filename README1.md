@@ -14,6 +14,7 @@
 - [free-books](https://github.com/JavaInterviewHub/free-books)
 
 #### 产品
+- [fluxmind](https://omnimind.com.cn/fluxmind)
 - [omnimind](https://omnimind.com.cn/)
 - [FreeVoice](https://eleven-free.cgssoccer.com/)
 - [livekit](https://livekit.com/)
