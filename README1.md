@@ -149,6 +149,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [colibri](https://github.com/JustVugg/colibri)
 - [tolaria](https://github.com/refactoringhq/tolaria)
 - [openmed](https://github.com/maziyarpanahi/openmed)
 - [meetily](https://github.com/Zackriya-Solutions/meetily)
