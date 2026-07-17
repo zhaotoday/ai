@@ -13,6 +13,9 @@
 - [Moji 小智AI衍生版](https://oshwhub.com/movecall/moji-xiaozhi-ai-derivative-editi)
 - [free-books](https://github.com/JavaInterviewHub/free-books)
 
+#### 网站
+- [AI导航](https://www.iconb.cn/)
+
 #### 产品
 - [fluxmind](https://omnimind.com.cn/fluxmind)
 - [omnimind](https://omnimind.com.cn/)
