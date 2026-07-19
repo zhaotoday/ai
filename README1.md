@@ -153,6 +153,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 - [mastra](https://github.com/mastra-ai/mastra)
 - [colibri](https://github.com/JustVugg/colibri)
 - [tolaria](https://github.com/refactoringhq/tolaria)
