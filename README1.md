@@ -153,6 +153,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [opensquilla](https://github.com/opensquilla/opensquilla)
 - [CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
 - [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 - [mastra](https://github.com/mastra-ai/mastra)
