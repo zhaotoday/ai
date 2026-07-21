@@ -1,4 +1,5 @@
 #### 教程
+- [AI-Guide-and-Demos-zh_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN)
 - [深入理解 AI Agent：设计原理与工程实践](https://github.com/bojieli/ai-agent-book)
 - [aie-book](https://github.com/chiphuyen/aie-book)
 - [Vercel AI SDK vs TanStack AI](https://vercel.com/kb/guide/vercel-ai-sdk-vs-tanstack-ai)
