@@ -155,6 +155,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [carrot](https://github.com/xx025/carrot)
 - [modlens](https://github.com/liustack/modlens)
 - [opensquilla](https://github.com/opensquilla/opensquilla)
 - [CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
