@@ -110,6 +110,8 @@
 - [百宝箱](https://www.tbox.cn/about)
 
 #### API 聚合
+- [ofox](http://ofox.ai/zh)
+- [atlascloud](https://www.atlascloud.ai/zh)
 - [引图 AI](https://api.yintu.cc/)
 - [oken](https://www.oken.ai/)
 - [ofox](https://ofox.ai/zh)
