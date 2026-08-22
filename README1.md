@@ -156,6 +156,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [free-models](https://github.com/justjavac/free-models)
 - [carrot](https://github.com/xx025/carrot)
 - [modlens](https://github.com/liustack/modlens)
 - [opensquilla](https://github.com/opensquilla/opensquilla)
