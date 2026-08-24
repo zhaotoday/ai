@@ -110,6 +110,7 @@
 - [百宝箱](https://www.tbox.cn/about)
 
 #### API 聚合
+- [hcnsec](https://api.hcnsec.cn/)
 - [ofox](http://ofox.ai/zh)
 - [atlascloud](https://www.atlascloud.ai/zh)
 - [引图 AI](https://api.yintu.cc/)
