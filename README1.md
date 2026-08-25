@@ -159,6 +159,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [PureChat](https://github.com/Hyk260/PureChat)
 - [free-models](https://github.com/justjavac/free-models)
 - [carrot](https://github.com/xx025/carrot)
 - [modlens](https://github.com/liustack/modlens)
