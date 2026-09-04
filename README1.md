@@ -111,6 +111,7 @@
 - [百宝箱](https://www.tbox.cn/about)
 
 #### API 聚合
+- [muapi](https://muapi.ai/)
 - [hcnsec](https://api.hcnsec.cn/)
 - [ofox](http://ofox.ai/zh)
 - [atlascloud](https://www.atlascloud.ai/zh)
