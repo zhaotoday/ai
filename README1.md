@@ -20,6 +20,7 @@
 - [AI导航](https://www.iconb.cn/)
 
 #### 产品
+- [openmaic](https://open.maic.chat/)
 - [fluxmind](https://omnimind.com.cn/fluxmind)
 - [omnimind](https://omnimind.com.cn/)
 - [FreeVoice](https://eleven-free.cgssoccer.com/)
