@@ -161,6 +161,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources)
 - [PureChat](https://github.com/Hyk260/PureChat)
 - [free-models](https://github.com/justjavac/free-models)
 - [carrot](https://github.com/xx025/carrot)
