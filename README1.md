@@ -162,6 +162,7 @@
 - [tambo](https://github.com/tambo-ai/tambo)
 
 #### 开源
+- [AIbijia](https://github.com/ka-pi-ba-la/AIbijia)
 - [LocalAI](https://github.com/mudler/LocalAI)
 - [awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources)
 - [PureChat](https://github.com/Hyk260/PureChat)
