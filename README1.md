@@ -18,6 +18,7 @@
 
 #### 网站
 - [AI导航](https://www.iconb.cn/)
+- [AIHot](https://aihot.news/)
 
 #### 产品
 - [openmaic](https://open.maic.chat/)
