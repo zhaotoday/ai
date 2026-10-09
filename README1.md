@@ -112,6 +112,7 @@
 - [百宝箱](https://www.tbox.cn/about)
 
 #### API 聚合
+- [openmodel](https://docs.openmodel.ai/zh)
 - [krill-code](https://www.krill-code.com/)
 - [opencodegoai](https://opencodegoai.com/)
 - [awesome-ai-api-proxy](https://github.com/howardpen9/awesome-ai-api-proxy)
