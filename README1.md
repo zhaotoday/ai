@@ -112,6 +112,8 @@
 - [百宝箱](https://www.tbox.cn/about)
 
 #### API 聚合
+- [gptsapi](https://gptsapi.net/)
+- [aicodewith](https://aicodewith.ai/zh)
 - [openmodel](https://docs.openmodel.ai/zh)
 - [krill-code](https://www.krill-code.com/)
 - [opencodegoai](https://opencodegoai.com/)
