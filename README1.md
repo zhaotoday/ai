@@ -166,6 +166,7 @@
 - [tokenportal](https://tokenportal.ai/zh)
 - [openroute](https://www.openroute.cn/)
 - [qidong](https://api.qidong.autos/)
+- [llm7](https://llm7.io/)
 
 #### UI 库
 - [better-chatbot](https://github.com/cgoinglove/better-chatbot)
