@@ -158,6 +158,14 @@
 - [灵芽 API](https://api.lingyaai.cn/)
 - [4SAPI](https://4sapi.com/)
 - [fast-code](https://api.timebackward.com/)
+- [tokease](https://www.tokease.cn/)
+- [acedata](https://platform.acedata.cloud/)
+- [router.one](https://router.one/zh)
+- [qubax](https://qubax.ai/)
+- [fal](https://fal.ai/)
+- [tokenportal](https://tokenportal.ai/zh)
+- [openroute](https://www.openroute.cn/)
+- [qidong](https://api.qidong.autos/)
 
 #### UI 库
 - [better-chatbot](https://github.com/cgoinglove/better-chatbot)
